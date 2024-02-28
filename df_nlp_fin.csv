@@ -1,0 +1,2235 @@
+,texts,label
+0,Header OPERATING INCOME,Income
+1,Header INCOME,Income
+2,Header RENTAL INCOME,Income
+3,Header GROSS POTENTIAL INCOME,Income
+4,Gross Potential Rent Gross Potential Market Rent,Income
+5,Gross Potential Rent Rental Income,Income
+6,Gross Potential Rent Rental Income - Subsidized,Income
+7,Gain / Loss to Lease Gain / Loss to Lease,Income
+8,Total TOTAL GROSS POTENTIAL INCOME,Income
+9,Header RENT ADJUSTMENTS,Income
+10,Less: Vacancy Vacancy,Income
+11,Plus: Prepaid Rent Plus Prepaid Rent,Income
+12,"Less: Office, Model, Down Units Non Revenue Units (Down Units)",Income
+13,"Less: Office, Model, Down Units Non Revenue Units (Down Units - Claim)",Income
+14,"Less: Office, Model, Down Units Non Revenue Units (Down Units - Claim Recovery)",Income
+15,"Less: Office, Model, Down Units Model Unit",Income
+16,"Less: Office, Model, Down Units Guest Suite",Income
+17,Less: Employee Units Employee Unit,Income
+18,Less: Employee Units Courtesy Officer Unit,Income
+19,Less: Concessions Concessions - Upfront,Income
+20,Less: Concessions Concessions - Recurring,Income
+21,Less: Concessions Concessions - Other,Income
+22,Less: Concessions Rent Credit - Referral,Income
+23,Less: Concessions Rent Credit - Operations,Income
+24,Less: Delinquency Delinquency,Income
+25,Plus: Prepaid Rent Rent Adjustments - Other Month,Income
+26,Plus: Prepaid Rent Rents Collected by Previous Management Company,Income
+27,Total RENT ADJUSTMENTS TOTAL,Income
+28,Header BAD DEBT,Income
+29,Less: Bad Debt Bad Debt Write Off,Income
+30,Less: Bad Debt Bad Debt Recovery,Income
+31,Less: Bad Debt Bad Debt Expense,Income
+32,Total TOTAL BAD DEBT,Income
+33,Total NET RENTAL INCOME,Income
+34,Header UTILITY INCOME,Income
+35,Plus: Utilities Income: Electricity Reimbursed Electric,Income
+36,Plus: Utilities Income: Electricity Utility Billback - Vacant Electric,Income
+37,Plus: Utilities Income: Gas Reimbursed Gas,Income
+38,Plus: Utilities Income: Water Reimbursed Water,Income
+39,Plus: Utilities Income: Water Reimbursed Sewer,Income
+40,Plus: Utilities Income: Trash Reimbursed Trash,Income
+41,Plus: Utilities Income: Trash Reimbursed Valet Living / Valet Trash,Income
+42,Plus: Utilities Income: Other Reimbursed Service Fees,Income
+43,Plus: Utilities Income: Other Reimbursed Submeter Fees,Income
+44,Plus: Utilities Income: Other Reimbursed Utility Processing Fees,Income
+45,Plus: Utilities Income: Other RUB Income,Income
+46,Total TOTAL UTILITY INCOME,Income
+47,Header OTHER INCOME,Income
+48,Plus: Late Charges Late Rent Fees,Income
+49,Plus: Late Charges NSF Fees,Income
+50,Plus: Pet Pet Fees,Income
+51,Plus: Termination Fees Termination Fees (Lease Break),Income
+52,Plus: Termination Fees Lease Cancellation Fees,Income
+53,Plus: Misc. Other Income Accelerated Rent,Income
+54,Plus: Short Term Premiums Month to Month Fee,Income
+55,Plus: Short Term Premiums Short Term Lease Fee,Income
+56,Plus: Misc. Other Income Amenity Fee - Upfront,Income
+57,Plus: Misc. Other Income Amenity Fee - Recurring,Income
+58,Plus: Application Fees Deposit Fee,Income
+59,Plus: Damages Reimbursement Deposit Forfeited,Income
+60,Plus: Application Fees Deposit Non-Refundable,Income
+61,Plus: Storage Package Locker/Delivery Service Fees,Income
+62,Plus: Storage Storage Fees,Income
+63,Plus: Parking Parking Space Fee,Income
+64,Plus: Parking Parking Carport Fee,Income
+65,Plus: Parking Parking Tag Fee,Income
+66,Plus: Parking Garage Remote Fee,Income
+67,Plus: Parking Carport Garage Fee,Income
+68,Plus: Damages Reimbursement Damage Fees,Income
+69,Plus: Misc. Other Income Carpet Cleaning Fees,Income
+70,Plus: Misc. Other Income Cleaning Fees,Income
+71,Plus: Application Fees Application Fees,Income
+72,Plus: Termination Fees Transfer Fees,Income
+73,Plus: Move Out Income Key Replacement,Income
+74,Plus: Move Out Income Change Lock Fee,Income
+75,Plus: Utilities Income: Pest Pest Control Fees,Income
+76,Plus: Misc. Other Income Work Order Billback,Income
+77,Plus: Laundry and Vending Laundry Income,Income
+78,Plus: Misc. Other Income Adminstrative Fees,Income
+79,Less: Legal Fees Legal Fees,Income
+80,Total TOTAL OTHER INCOME,Income
+81,Header MISC INCOME,Income
+82,Plus: Misc. Other Income Clubhouse Rental Income,Income
+83,Plus: Laundry and Vending Vending Machine Income,Income
+84,Plus: Utilities Income: Cable Cable Income,Income
+85,Plus: Utilities Income: Cable Internet Income,Income
+86,Plus: Misc. Other Income Interest Income,Income
+87,Plus: Renter's Insurance Insurance Recovery - Pay with Rent,Income
+88,Plus: Renter's Insurance Insurance Recovery - Forced Placed,Income
+89,Plus: Commercial Income Retail Income,Income
+90,Plus: Commercial Income Retail Concession,Income
+91,Plus: Parking Retail Parking Income,Income
+92,Total TOTAL MISC INCOME,Income
+93,Total TOTAL INCOME,Income
+94,Header OPERATING EXPENSES,Expense
+95,Header PAYROLL,Expense
+96,Header PAYROLL - SALARIES,Expense
+97,Less: Maintenance Salary Regional Maintenance Supervisor,Expense
+98,Less: Manager Salary Property Manager Payroll,Expense
+99,Less: Manager Salary Assistant Manager Payroll,Expense
+100,Less: Leasing Agent Salary Leasing Manager Payroll,Expense
+101,Less: Leasing Agent Salary Leasing Agent Payroll,Expense
+102,Less: Maintenance Salary Senior Maintenance Supervisor Payroll,Expense
+103,Less: Maintenance Salary Maintenance Supervisor Payroll,Expense
+104,Less: Maintenance Salary Assistant Maintenance Supervisor Payroll,Expense
+105,Less: Maintenance Salary Service Technician Payroll,Expense
+106,Less: Maintenance Salary Grounds Payroll,Expense
+107,Less: Maintenance Salary Porter Payroll,Expense
+108,Less: Other Contract Services Seasons - Mgt. Leasing & Bookkpng.,Expense
+109,Less: Contract Maintenance Seasons - Maintenance & Interior,Expense
+110,Less: Bonuses and Commissions Seasons - Rental & Renewal Bonuses,Expense
+111,Less: Bonuses and Commissions Seasons - Incentive Pay,Expense
+112,Less: Payroll Taxes & Benefits Seasons - Payroll Taxes & Benefits,Expense
+113,Less: Other Contract Services Seasons - Temporary Agency Payroll,Expense
+114,Total TOTAL PAYROLL - SALARIES,Expense
+115,Header PAYROLL - OVERTIME,Expense
+116,Less: Leasing Agent Salary Leasing Agent Overtime,Expense
+117,Less: Maintenance Salary Maintenance Supervisor Overtime,Expense
+118,Less: Maintenance Salary Maintenance Technician Overtime,Expense
+119,Less: Other Salaries Other Overtime,Expense
+120,Total TOTAL PAYROLL - OVERTIME,Expense
+121,Header PAYROLL - BONUS,Expense
+122,Less: Other Salaries Administrative - Monthly,Expense
+123,Less: Bonuses and Commissions Administrative - Commissions,Expense
+124,Less: Other Salaries Administrative - Quarterly,Expense
+125,Less: Bonuses and Commissions Leasing - Commissions,Expense
+126,Less: Leasing Agent Salary Leasing - Other,Expense
+127,Less: Maintenance Salary Maintenance - Monthly,Expense
+128,Less: Bonuses and Commissions Maintenance - Commissions,Expense
+129,Less: Bonuses and Commissions Bonus Other,Expense
+130,Total TOTAL PAYROLL - BONUS,Expense
+131,Header CHECK PROCESSING FEES,Expense
+132,Less: Other Administrative - Check Processing Fees,Expense
+133,Less: Other Other - Check Processing Fees,Expense
+134,Total TOTAL CHECK PROCESSING FEES,Expense
+135,Header PAYROLL TAXES,Expense
+136,Less: Payroll Taxes & Benefits Administrative - Payroll Taxes,Expense
+137,Less: Payroll Taxes & Benefits Leasing - Payroll Taxes,Expense
+138,Less: Payroll Taxes & Benefits Maintenance - Payroll Taxes,Expense
+139,Less: Payroll Taxes & Benefits Other - Payroll Taxes,Expense
+140,Total TOTAL PAYROLL TAXES,Expense
+141,Header INSURANCE/WORKER'S COMP,Expense
+142,Less: Payroll Taxes & Benefits Administrative - Ins,Expense
+143,Less: Payroll Taxes & Benefits Leasing - Ins,Expense
+144,Less: Payroll Taxes & Benefits Other - Ins,Expense
+145,Total TOTAL INSURANCE/WORKER'S COMP,Expense
+146,Header 401 CONTRIBUTION,Expense
+147,Less: Payroll Taxes & Benefits Administrative - 401,Expense
+148,Less: Payroll Taxes & Benefits Maintenance - 401,Expense
+149,Less: Payroll Taxes & Benefits Other - 401,Expense
+150,Total 401 CONTRIBUTION,Expense
+151,Header TEMP LABOR,Expense
+152,Less: Other Contract Services Administrative - Temp,Expense
+153,Less: Other Contract Services Leasing - Temp,Expense
+154,Less: Contract Maintenance Maintenance - Temp,Expense
+155,Less: Other Contract Services Other - Temp,Expense
+156,Total TOTAL TEMP LABOR,Expense
+157,Header PAYROLL OTHER,Expense
+158,Less: Other Salaries Administrative - New Hire,Expense
+159,Less: Other Salaries Other - New Hire,Expense
+160,Total TOTAL PAYROLL OTHER,Expense
+161,Total TOTAL PAYROLL,Expense
+162,Header GENERAL AND ADMINISTRATIVE,Expense
+163,Less: Meals and Entertainment 1099 Admin,Expense
+164,Less: Office Expenses Telephone,Expense
+165,Less: Office Expenses Cell Phone,Expense
+166,Less: Office Expenses Answering Service,Expense
+167,Less: Cable Internet Service,Expense
+168,Less: Cable Common Area TV / Cable,Expense
+169,Less: Office Expenses Office Supplies,Expense
+170,Less: Office Expenses Office Equipment Supplies,Expense
+171,Less: Office Expenses Package Lockers/Delivery Service,Expense
+172,Less: Office Expenses Postage,Expense
+173,Less: Office Expenses Express Mail,Expense
+174,Less: Office Expenses Printing,Expense
+175,Less: Office Expenses Copier Expense,Expense
+176,Less: Office Expenses Forms,Expense
+177,Less: License and Permits Licenses,Expense
+178,Less: Training Kingsley/Ellis Survey,Expense
+179,Less: Dues and Subscriptions Dues & Subscriptions,Expense
+180,Less: Other Contract Services Courtesy Patrol,Expense
+181,Less: Training Training & Education,Expense
+182,Less: Meals and Entertainment Training Travel,Expense
+183,Less: Office Expenses Recruitment Advertising,Expense
+184,Less: Office Expenses Employee Recognition,Expense
+185,Less: Legal Fees Eviction/Legal Fees,Expense
+186,Less: Dues and Subscriptions Credit Check,Expense
+187,Less: Training Shopper Reports,Expense
+188,Less: Office Expenses Bank Charges/Credit Card Fees,Expense
+189,Less: Office Expenses Check Scanner,Expense
+190,Less: Meals and Entertainment Employee Meetings,Expense
+191,Less: Meals and Entertainment Corporate Events,Expense
+192,Less: Meals and Entertainment Travel & Entertainment,Expense
+193,Less: Meals and Entertainment Meals - Travel,Expense
+194,Less: Meals and Entertainment Meals - Non Travel,Expense
+195,Less: Technology Allocation Computer Expense,Expense
+196,Less: Technology Allocation Computer Software,Expense
+197,Less: Technology Allocation Software Maintenance Agreement,Expense
+198,Less: Technology Allocation Invoice Management / Scanning Software,Expense
+199,Less: Technology Allocation Revenue Management Software,Expense
+200,Less: Technology Allocation Computer Software Other,Expense
+201,Less: Technology Allocation Computer-R&M,Expense
+202,Less: License and Permits Gov Licenses Fees/Permits,Expense
+203,Less: Other Contract Services Inspection Fees,Expense
+204,Total TOTAL GENERAL AND ADMINISTRATIVE,Expense
+205,Header MARKETING,Expense
+206,Less: Advertising Advertising-Print,Expense
+207,Less: Advertising Business Cards,Expense
+208,Less: Website Marketing - Internet,Expense
+209,Less: Other Contract Services Marketing Consultant/Photographer,Expense
+210,Less: Marketing Content/Branding,Expense
+211,Less: Advertising Pay Per Lease Ads,Expense
+212,Less: Marketing Brochures,Expense
+213,Less: Marketing Collaterals,Expense
+214,Less: Marketing Lead Management,Expense
+215,"Less: Technology Allocation CRM (Lead2Lease, Rent Caf?)",Expense
+216,"Less: Dues and Subscriptions Dues, Memberships & Sub.",Expense
+217,Less: Marketing Resident Functions,Expense
+218,Less: Marketing Marketing Supplies,Expense
+219,Less: Marketing Billboards/Signs,Expense
+220,Less: Marketing Temporary Signage,Expense
+221,Less: Marketing Permanent Signage,Expense
+222,Less: Marketing Banners/Flags,Expense
+223,Less: Marketing Seasonal Decorations,Expense
+224,Less: Marketing Marketing Promotions,Expense
+225,Less: SEO Graphic Design,Expense
+226,Less: SEO PPC,Expense
+227,Less: SEO SEO,Expense
+228,Less: Marketing Promotional Supplies,Expense
+229,Less: Broker Commissions Locator/Broker Fees,Expense
+230,Less: Marketing Prospect Refreshments,Expense
+231,Less: Marketing Resident Referrals,Expense
+232,Less: Marketing Resident Move In Gifts,Expense
+233,Less: Marketing Resident Retention,Expense
+234,Less: Marketing Model Maintenance,Expense
+235,Less: Marketing Model Accessories,Expense
+236,Less: Training Reputation Management,Expense
+237,Less: Training Shopper Reports,Expense
+238,Less: Marketing Fitness program,Expense
+239,Less: Marketing Marketing Research,Expense
+240,Less: SEO Website Design / Maintenance,Expense
+241,Total TOTAL MARKETING,Expense
+242,Header UTILITIES,Expense
+243,Less: Electricity Electricity,Expense
+244,Less: Electricity Electricity - Resident Submeter,Expense
+245,Less: Electricity Electricity - Model,Expense
+246,Less: Electricity Electricity - Vacant,Expense
+247,Less: Electricity Electricity - Office,Expense
+248,Less: Gas Gas,Expense
+249,Less: Gas Gas - Vacant,Expense
+250,Less: Gas Gas - Pool & Spa,Expense
+251,Less: Other Utilities - Late Fees,Expense
+252,Less: Water Water,Expense
+253,Less: Water Water - Resident Submeter,Expense
+254,Less: Water Water - Irrigation,Expense
+255,Less: Sewer Sewer,Expense
+256,Less: Sewer Sewer - Resident Submeter,Expense
+257,Less: Trash Removal Trash Removal,Expense
+258,Less: Trash Removal Trash Removal - Bulk Pickup,Expense
+259,Less: Trash Removal Trash Recycling,Expense
+260,Less: Trash Removal Trash Valet Living,Expense
+261,Less: Cable Cable Expense,Expense
+262,Less: Electricity Submetering Service Fees,Expense
+263,Total TOTAL UTILITIES,Expense
+264,Header REPAIRS AND MAINTENANCE,Expense
+265,Less: Capital Improvements Deck / Patio,Expense
+266,Less: Repair Costs Roof Repairs,Expense
+267,Less: Exterior Decorating Gutters / Downspouts,Expense
+268,Less: Interior Decorating Lighting Interior,Expense
+269,Less: Interior Decorating Lighting Exterior,Expense
+270,Less: Interior Decorating Corridors / Hallways,Expense
+271,Less: Parking Maintenance Parking & Garage Gate Repairs,Expense
+272,Less: Parking Maintenance Parking & Garage Cleaning,Expense
+273,Less: Parking Maintenance Parking & Garage Lighting,Expense
+274,Less: Repair Costs Fence Repair,Expense
+275,Less: Parking Maintenance Parking Lot Repair,Expense
+276,Less: Interior Decorating Interior Painting,Expense
+277,Less: Exterior Decorating Exterior Painting,Expense
+278,Less: Repair Costs Elevator Maintenance Contract,Expense
+279,Less: Contract Maintenance Electrical,Expense
+280,Less: Repair Costs Electrical Contract,Expense
+281,Less: Plumbing Electrical Supplies,Expense
+282,Less: Contract Maintenance Plumbing,Expense
+283,Less: Plumbing Plumbing Contract,Expense
+284,Less: Plumbing Plumbing Supplies,Expense
+285,Less: HVAC Maintenance HVAC,Expense
+286,Less: HVAC Maintenance HVAC Contract,Expense
+287,Less: HVAC Maintenance HVAC Supplies,Expense
+288,Less: Repair Costs Water Heater,Expense
+289,Less: Repair Costs Water Extraction,Expense
+290,Less: Repair Costs Water Damage - Carpentry,Expense
+291,Less: Repair Costs Water Damage - Painting,Expense
+292,Less: Repair Costs Water Damage - Flooring,Expense
+293,Less: Repair Costs Ceiling Fans,Expense
+294,Less: Repair Costs Environmental Fees,Expense
+295,Less: Marketing Signage,Expense
+296,Less: Cleaning Fees Janitorial/Common Area Cleaning,Expense
+297,Less: Cleaning Fees Cleaning Supplies,Expense
+298,Less: Cleaning Fees Power Wash / Steam Cleaning,Expense
+299,Less: Repair Costs Golf Cart Maintenance / Supplies,Expense
+300,Less: Repair Costs Small Equipment,Expense
+301,Less: Pest Control Pest Control Contract,Expense
+302,Less: Pest Control Pest Control Supplies,Expense
+303,Less: Pest Control Pest Control - Bed Bugs,Expense
+304,Less: Pest Control Pest Control - Rodent,Expense
+305,Less: Pest Control Pest Control - Termite,Expense
+306,Less: Exterior Decorating Sidewalks / Curbs,Expense
+307,Less: Amenities Swimming Pool,Expense
+308,Less: Amenities Swimming Pool Supplies,Expense
+309,Less: License and Permits Swimming Pool Licenses,Expense
+310,Less: Contract Maintenance Swimming Pool Contract,Expense
+311,Less: Repair Costs Common Area Repairs,Expense
+312,Less: Security Courtesy Patrol,Expense
+313,Less: Security Security Monitoring Equipment,Expense
+314,Less: Security Security Fees & Permits,Expense
+315,Less: Security Security Equipment,Expense
+316,Less: Repair Costs Mold Remediation,Expense
+317,Less: Interior Decorating Windows,Expense
+318,Less: Interior Decorating Drapes/Blinds,Expense
+319,Less: Interior Decorating Doors - Interior,Expense
+320,Less: Interior Decorating Doors - Exterior,Expense
+321,Less: Security Keys,Expense
+322,Less: Security Locks,Expense
+323,"Less: Security Fire Extinguisher, 1st Aid",Expense
+324,Less: Security Sprinkler System,Expense
+325,Less: Security Fire Damage,Expense
+326,Less: Security Fuels,Expense
+327,Less: Security Alarm Expense,Expense
+328,Less: Maintenance Fees Maint Travel & Mileage,Expense
+329,Less: Amenities Clubroom Repairs,Expense
+330,Less: Repair Costs Laundry Room Repairs,Expense
+331,Less: Elevator Maintenance Lift Station Repair,Expense
+332,Less: Contract Maintenance Carpentry Contract,Expense
+333,Less: Repair Costs Appliances,Expense
+334,Less: Repair Costs Appliance Supplies,Expense
+335,Less: Repair Costs Countertop/Kitchen Repair,Expense
+336,Less: Repair Costs Bathroom Repair,Expense
+337,Less: Trash Removal Mirror Repairs,Expense
+338,Less: Repair Costs Glass Repair,Expense
+339,Less: Repair Costs Screen repairs,Expense
+340,Less: Trash Removal Misc. Rubbish Removal,Expense
+341,Less: Security Safety Tools / Equipment,Expense
+342,Less: Repair Costs Appliance Repair,Expense
+343,Less: Repair Costs Carpet Repair,Expense
+344,Less: Repair Costs Vinyl/Tile,Expense
+345,Less: Repair Costs Fitness Center Equipment Repairs,Expense
+346,Less: Office Expenses Uniforms - Maintenance,Expense
+347,Less: Office Expenses Uniforms- Grounds,Expense
+348,Total TOTAL REPAIRS AND MAINTENANCE,Expense
+349,Header LANDSCAPE,Expense
+350,Less: Contract Maintenance Landscape - Contract,Expense
+351,Less: Landscaping Flower Rotation,Expense
+352,Less: Landscaping Mulch,Expense
+353,Less: Landscaping Landscape Supplies,Expense
+354,Less: Landscaping Replacement Plants,Expense
+355,Less: Landscaping Irrigation / Sprinkler Repairs,Expense
+356,Less: Landscaping Pond / Lake R&M,Expense
+357,Less: Snow Removal Snow Removal - Contract,Expense
+358,Less: Snow Removal Snow Removal Supplies,Expense
+359,Total TOTAL LANDSCAPE,Expense
+360,Header MAKE READY,Expense
+361,Less: Trash Removal Trash Out,Expense
+362,Less: Unit Turnover Unit Cleaning,Expense
+363,Less: Contract Maintenance Paint Contract,Expense
+364,Less: Unit Turnover Paint Supplies,Expense
+365,Less: Unit Turnover Window Blinds and Screens,Expense
+366,Less: Unit Turnover Carpet Cleaning,Expense
+367,Less: Unit Turnover Carpet Repair,Expense
+368,Less: Unit Turnover Cabinet / Countertop repairs,Expense
+369,Less: Unit Turnover Vinyl Repair,Expense
+370,Less: Unit Turnover Carpentry / Interior Doors,Expense
+371,Less: Unit Turnover Fixtures,Expense
+372,Less: Unit Turnover Appliance Repairs,Expense
+373,Less: Unit Turnover Re-glaze,Expense
+374,Less: Electricity Electrical,Expense
+375,Less: Electricity Lighting,Expense
+376,Less: Plumbing Plumbing,Expense
+377,Less: Unit Turnover Drywall repairs,Expense
+378,Less: Unit Turnover Turn Hardware & Supplies,Expense
+379,Total TOTAL MAKE READY,Expense
+380,Header MANAGEMENT FEES,Expense
+381,Less: Management Fees Property Management Fee,Expense
+382,Total TOTAL MANAGEMENT FEES,Expense
+383,Header INSURANCE,Expense
+384,Less: Insurance Property Insurance,Expense
+385,Less: Insurance General Liability Insurance,Expense
+386,Less: Insurance Excess Liability Insurance,Expense
+387,Less: Insurance Other Insurance,Expense
+388,Less: Insurance Insurance Claims,Expense
+389,Total TOTAL INSURANCE,Expense
+390,Header TAXES,Expense
+391,Less: Real Estate Taxes Real Estate Taxes,Expense
+392,Less: Real Estate Taxes Real Estate Taxes - Prior Year,Expense
+393,Less: Real Estate Taxes Real Estate Taxes - Service Base,Expense
+394,Less: Real Estate Taxes Real Estate Taxes - Appeal,Expense
+395,Less: Real Estate Taxes Real Estate Taxes - Refunds,Expense
+396,Less: Real Estate Taxes Personal Property Taxes,Expense
+397,Total TOTAL TAXES,Expense
+398,Total TOTAL OPERATING EXPENSES,Expense
+399,Total NET OPERATING INCOME,Expense
+400,Header NON-OPERATING EXPENSES,Expense
+401,Header PARTNERSHIP,Expense
+402,Not Classified Misc./Extraordinary Income,Expense
+403,Not Classified Loan Exit Fee,Expense
+404,Not Classified Asset Management Fees,Expense
+405,Not Classified Legal Fees-Entities,Expense
+406,Not Classified Legal Fees-Tenant Claims,Expense
+407,Not Classified Audit Fees,Expense
+408,Not Classified Administrative Expenses,Expense
+409,Not Classified Software Expense,Expense
+410,Not Classified Consulting,Expense
+411,Not Classified Tax Return Fees,Expense
+412,Not Classified Business License,Expense
+413,Not Classified Tax-Franchise,Expense
+414,Not Classified Tax-Annual Report Filing Fee,Expense
+415,Not Classified Owner/Advisor Meals & Entertainment,Expense
+416,Not Classified Owner/Advisor Travel Expense,Expense
+417,Not Classified Owner/Advisor Professional Fees,Expense
+418,Not Classified Owner/Advisor Related-Tax Consulting,Expense
+419,Not Classified Owner/Advisor Related-Other,Expense
+420,Not Classified Prior Year Misc Adjustments,Expense
+421,Not Classified Lender Inspection Fees,Expense
+422,Not Classified Insurance Deductible,Expense
+423,Total TOTAL PARTNERSHIP,Expense
+424,Header DEBT SERVICE,Expense
+425,Less: Interest Mortgage Interest - Permanent,Expense
+426,Less: Interest Mortgage Interest - Rate Cap Reimbursement,Expense
+427,Total TOTAL DEBT SERVICE,Expense
+428,Total TOTAL NON-OPERATING EXPENSES,Expense
+429,Total TOTAL NET INCOME,Expense
+430,Header Net Income,Income
+431,Header NOI Less Non-Recurring Expenses,Income
+432,Header Net Operating Income,Income
+433,Header Total Operating Income,Income
+434,Header Net Rental Income,Income
+435,Header Rent Potential,Income
+436,Gross Potential Rent Gross Potential Rent,Income
+437,Gain / Loss to Lease Loss/Gain to Lease,Income
+438,Total Rent Potential,Income
+439,Header Income/Revenue Adjustments,Income
+440,Less: Vacancy Vacancy,Income
+441,Less: Concessions Concessions,Income
+442,Less: Bad Debt Bad Debt Write Off,Income
+443,Less: Bad Debt Collections- Bad Debt Collected,Income
+444,"Less: Office, Model, Down Units Non-Revenue Unit/Model",Income
+445,Less: Employee Units Employee Rent Discount,Income
+446,Less: Vacancy Vacancy- Down Units,Income
+447,Total Income/Revenue Adjustments,Income
+448,Total Net Rental Income,Income
+449,Header Non-Rental Income,Income
+450,Header Other Income & Monthly Charges,Income
+451,Plus: Parking Garage Rent,Income
+452,Plus: Parking Parking Rent,Income
+453,Plus: Pet Pet Rent,Income
+454,Plus: Storage Storage Rent,Income
+455,Plus: Laundry and Vending Washer/Dryer Rent,Income
+456,Plus: Utilities Income: Cable Internet/Cable Income - Resident,Income
+457,Plus: Utilities Income: Cable Internet/Cable Income - Revenue Share,Income
+458,Plus: Commercial Income Commercial Income,Income
+459,Plus: Laundry and Vending Laundry and Vending Income,Income
+460,Plus: Short Term Premiums MTM Rent,Income
+461,Plus: Misc. Other Income Interest Income,Income
+462,Plus: Misc. Other Income Miscellaneous Non-Tenant Income,Income
+463,Plus: Misc. Other Income Communication Tower Rent,Income
+464,Total Other Income & Monthly Charges,Income
+465,Header Utility Fees/Charges,Income
+466,Plus: Utilities Income: Other Resident Flat Fee Utility Charge,Income
+467,Plus: Utilities Income: Trash Resident Trash Charge,Income
+468,Plus: Utilities Income: Water Resident Water Charge,Income
+469,Plus: Utilities Income: Water Resident Sewer Charge,Income
+470,Plus: Utilities Income: Water Resident Water and Sewer Charge,Income
+471,Plus: Utilities Income: Gas Resident Gas Charge,Income
+472,Plus: Utilities Income: Electricity Resident Electric Charge,Income
+473,Plus: CAM Charges Resident CAM Charge,Income
+474,Plus: Utilities Income: Other Utility Service Fee Income,Income
+475,Plus: Utilities Income: Other Utility Set Up Fee Income,Income
+476,Plus: Utilities Income: Other Utility Transfer Fee- Move In,Income
+477,Plus: Utilities Income: Trash Valet Trash,Income
+478,Total Utility Fees/Charges,Income
+479,Header Misc Income - Tenant Fees,Income
+480,Plus: Admin Fees Administrative Leasing Fee,Income
+481,Plus: Application Fees Application Fee,Income
+482,Plus: Late Charges Late Fee,Income
+483,Plus: Misc. Other Income Technology Services Fee,Income
+484,Plus: Pet Non Refundable Pet Fee,Income
+485,Plus: Termination Fees Lease Termination Fee,Income
+486,Plus: Termination Fees Transfer Unit Fee,Income
+487,Plus: Additional Resident Fee Amenity Usage/Guest Suite Income,Income
+488,Plus: Move Out Income Lock Out Fee,Income
+489,Total Misc Income - Tenant Fees,Income
+490,Header Reimbursement Charges,Income
+491,Plus: Additional Resident Fee Building Protection Policy - Income,Income
+492,Plus: Utilities Income: Pest Resident Pest Control,Income
+493,Plus: Additional Resident Fee Resident Real Estate Tax,Income
+494,Plus: Late Charges Legal and Eviction Costs,Income
+495,Plus: Late Charges NSF Charge / Bank Charges,Income
+496,"Plus: Damages Reimbursement Forfeited Deposit Unit Cleaning, Repair",Income
+497,Plus: Additional Resident Fee Deposit Waiver Program - Income,Income
+498,Plus: Additional Resident Fee Ancillary Services Program - Income,Income
+499,Total Reimbursement Charges,Income
+500,Total Non-Rental Income,Income
+501,Total Total Operating Income,Income
+502,Header Total Operating Expense,Expense
+503,Header Controllable Expense,Expense
+504,Header Utilities,Expense
+505,,Expense
+506,Less: Electricity Electric - Vacant,Expense
+507,Less: Gas Gas,Expense
+508,Less: Gas Gas - Vacant,Expense
+509,Less: Water Water & Sewer,Expense
+510,Less: Water Water,Expense
+511,Less: Sewer Sewer,Expense
+512,Less: Office Expenses Telephone,Expense
+513,Less: Trash Removal Trash,Expense
+514,Less: Cable Internet/Cable,Expense
+515,Less: Cable Internet,Expense
+516,Less: Other Contract Services 3rd Party Utility Fee,Expense
+517,Less: Water Water Irrigation,Expense
+518,Less: Cable Cable,Expense
+519,Total Utilities,Expense
+520,Header Payroll,Expense
+521,Header Property Payroll,Expense
+522,Less: Manager Salary Payroll- Community Manager Salary,Expense
+523,Less: Manager Salary Payroll- Assistant Manager,Expense
+524,Less: Leasing Agent Salary Payroll- Leasing,Expense
+525,Less: Other Salaries Payroll- Office Overtime,Expense
+526,Less: Bonuses and Commissions Payroll- Bonus/Incentives- Office,Expense
+527,Less: Payroll Taxes & Benefits Payroll- Employer Taxes- Office,Expense
+528,Less: Bonuses and Commissions Payroll- Leasing Commissions,Expense
+529,Total Property Payroll,Expense
+530,Header Maintenance Payroll,Expense
+531,Less: Maintenance Salary Payroll- Maintenance Supervisor,Expense
+532,Less: Maintenance Salary Payroll- Maintenance Technician,Expense
+533,Less: Maintenance Salary Payroll- Housekeeper / Groundskeeper,Expense
+534,Less: Maintenance Salary Payroll- Maintenance Overtime,Expense
+535,Less: Bonuses and Commissions Payroll- Bonus/Incentives- Maintenance,Expense
+536,Less: Payroll Taxes & Benefits Payroll - Employer Taxes- Maintenance,Expense
+537,Total Maintenance Payroll,Expense
+538,Header Payroll- Expenses/Deductions - Office,Expense
+539,Less: Payroll Taxes & Benefits Medical Benefits,Expense
+540,Less: Payroll Taxes & Benefits Payroll Processing Fee,Expense
+541,Less: Payroll Taxes & Benefits Workers Comp,Expense
+542,Less: Payroll Taxes & Benefits 401K,Expense
+543,Less: Other Salaries Labor Expense - Administrative,Expense
+544,Less: Other Contract Services Labor Expense - Office Temp Labor,Expense
+545,Less: Contract Maintenance Labor Expense - Maintenance Temp Labor,Expense
+546,Total Payroll- Expenses/Deductions - Office,Expense
+547,Total Payroll,Expense
+548,Header Contract Services,Expense
+549,Less: Elevator Maintenance Elevator-Contract Services,Expense
+550,Less: Pest Control Exterminator/Pest,Expense
+551,"Less: Security Fire & Safety - Inspections, Service",Expense
+552,Less: Cleaning Fees Janitorial,Expense
+553,Less: Landscaping Landscaping,Expense
+554,Less: Amenities Pool Services,Expense
+555,Less: Snow Removal Snow Removal,Expense
+556,Less: Landscaping Groundskeeping,Expense
+557,Less: Security Security Service,Expense
+558,Less: Security Alarm Monitoring- Contract,Expense
+559,Less: Other Contract Services Contract- Fitness Center Equip.,Expense
+560,Less: Other Contract Services Other- Contract Services,Expense
+561,Less: Trash Removal Valet Trash Expense,Expense
+562,Less: Other Contract Services Seasonal Color,Expense
+563,Less: Contract Maintenance Plants and Plant Maintenance,Expense
+564,Total Contract Services,Expense
+565,Header Repairs and Maintenance,Expense
+566,Less: Trash Removal Hauling/Bulk Item Removal,Expense
+567,Less: Repair Costs Janitorial R&M,Expense
+568,Less: Repair Costs Appliance Parts & Repairs,Expense
+569,Less: Repair Costs Lighting and Electrical Supplies,Expense
+570,"Less: Repair Costs Hardware, Locks and Keys",Expense
+571,Less: Plumbing Plumbing Supplies,Expense
+572,Less: Repair Costs Glass & Window Replacement,Expense
+573,Less: HVAC Maintenance HVAC Services & Repairs,Expense
+574,Less: Repair Costs Building & Apartment Stock Inventory,Expense
+575,Less: Cleaning Fees Cleaning Supplies,Expense
+576,Less: Repair Costs Equipment and Tools,Expense
+577,Less: Repair Costs Laundry Room Equipment Rental/Repairs,Expense
+578,Less: Plumbing Plumbing & Sewer Service / Repairs,Expense
+579,Less: Repair Costs Building & Common Area Repairs,Expense
+580,Less: Repair Costs Unit Repairs,Expense
+581,Less: Repair Costs Vendor Discounts,Expense
+582,Less: Security Controlled Access/Gate/Fencing repairs,Expense
+583,Less: Electricity Electrical Repairs,Expense
+584,Less: Repair Costs Roof/Gutter Repairs,Expense
+585,Less: Repair Costs Drywall/Paint Repair,Expense
+586,Less: Parking Maintenance Parking Lot/Asphalt,Expense
+587,Less: Parking Maintenance Carport/Garage,Expense
+588,Less: Elevator Maintenance Elevator Repairs,Expense
+589,Less: Landscaping Landscaping and Irrigation Repair,Expense
+590,Less: Repair Costs Pool Repair,Expense
+591,Less: Pest Control Exterminator,Expense
+592,Less: Security Fire/Life Safety R&M,Expense
+593,Less: HVAC Maintenance HVAC Supplies,Expense
+594,Less: Repair Costs Electrical Supplies,Expense
+595,Less: Landscaping Landscape Supplies,Expense
+596,Less: Repair Costs Pool Supplies,Expense
+597,Less: Repair Costs Water Heater/Boiler Repairs,Expense
+598,Less: Amenities Amenities R+M,Expense
+599,Less: Repair Costs Fountain Repairs/Supplies,Expense
+600,Less: Repair Costs Chimney Sweeping,Expense
+601,Less: Repair Costs Screens & Doors,Expense
+602,Less: Repair Costs Water Extraction,Expense
+603,Less: Plumbing Plumbing Repairs,Expense
+604,Less: Repair Costs Golf Carts/Vehicle Maintenance,Expense
+605,Less: Repair Costs Fireplace Repairs,Expense
+606,Total Repairs and Maintenance,Expense
+607,Header Turnover,Expense
+608,Less: Unit Turnover Turnover Contract Maintenance,Expense
+609,Less: Unit Turnover Turnover- Carpet/Floor Cleaning,Expense
+610,Less: Unit Turnover Turnover- Contract Cleaning,Expense
+611,Less: Unit Turnover Turnover- Tub/Counter Refinish/Repair,Expense
+612,Less: Unit Turnover Turnover- Flooring Repairs,Expense
+613,Less: Unit Turnover Turnover- Drapery/Blinds Cleaning,Expense
+614,Less: Unit Turnover Turnover- Supplies,Expense
+615,Less: Unit Turnover Turnover- Paint and Supplies,Expense
+616,Less: Unit Turnover Turnover- Drapery/Blinds Replacements,Expense
+617,Total Turnover,Expense
+618,Header Marketing,Expense
+619,Less: Advertising Advertising Internet,Expense
+620,Less: Marketing Resident Referrals,Expense
+621,Less: Marketing Resident Good Will,Expense
+622,Less: Advertising Banners/Flyers etc,Expense
+623,Less: Marketing Collateral/SWAG,Expense
+624,Less: Marketing Marketing Automation Tools,Expense
+625,Less: Marketing Lead Tracking Tools,Expense
+626,Less: Technology Allocation Interactive Marketing Technology,Expense
+627,Less: Marketing Printed Collateral Materials,Expense
+628,Less: Marketing Signage & Balloons,Expense
+629,Less: Marketing Model Furniture/Accessories,Expense
+630,"Less: Office, Model, Down Units Vacant Unit Staging",Expense
+631,Less: Marketing Prospect Refreshments,Expense
+632,Less: Marketing Resident Functions/Parties,Expense
+633,Less: Marketing Resident Gifts,Expense
+634,Less: Broker Commissions Locator/Broker Fees,Expense
+635,Less: Marketing Mkt Studies/Shopper Rpts,Expense
+636,Less: Marketing Community Newsletter,Expense
+637,Less: Marketing Marketing Fee,Expense
+638,Less: Website Web Site Maintenance,Expense
+639,Less: Technology Allocation Reputation Management,Expense
+640,Less: Technology Allocation Internet Digital Advertising,Expense
+641,Total Marketing,Expense
+642,Header Administrative Expenses,Expense
+643,Less: Office Expenses HOA Dues,Expense
+644,Less: Office Expenses Administrative,Expense
+645,Less: Office Expenses Applications Fees / Credit Check,Expense
+646,Less: Meals and Entertainment Auto and Travel,Expense
+647,Less: Office Expenses Bank Fees,Expense
+648,Less: Technology Allocation Computer Supplies and Repairs,Expense
+649,Less: Training Education and Seminars,Expense
+650,Less: Office Expenses Leasing Office/Equipment Expenses,Expense
+651,Less: License and Permits Licenses and Permits,Expense
+652,Less: Meals and Entertainment Meals and Meetings,Expense
+653,Less: Office Expenses Postage and Delivery,Expense
+654,Less: Office Expenses Supplies Office,Expense
+655,Less: Office Expenses Uniforms,Expense
+656,Less: Technology Allocation Property Management Software,Expense
+657,Less: Dues and Subscriptions Dues and Subscriptions,Expense
+658,Less: Office Expenses Copier Lease and Supplies,Expense
+659,Less: Security Security Monitoring,Expense
+660,Less: Office Expenses Shredding,Expense
+661,Less: Office Expenses Employee Reimbursements,Expense
+662,Less: Cable Answering Service,Expense
+663,Less: Meals and Entertainment Lodging,Expense
+664,Less: Meals and Entertainment Airfare,Expense
+665,Less: Training Employee Retention/Recognition,Expense
+666,Less: Legal Fees Collections Expense,Expense
+667,Less: Office Expenses Unreconciled Purchases,Expense
+668,Less: Training L&D Fee,Expense
+669,Less: Office Expenses Administrative Fee,Expense
+670,Less: Technology Allocation Technology Fee,Expense
+671,Less: Technology Allocation Property Management Softare Expense,Expense
+672,Less: Technology Allocation Software - Real Page BI/PAB,Expense
+673,Total Administrative Expenses,Expense
+674,Header Legal & Professional Fees,Expense
+675,"Less: Dues and Subscriptions Annual Reports, Filing Fees, LLC,",Expense
+676,Less: Legal Fees Finance & Insurance Legal Cost,Expense
+677,Less: Legal Fees Legal Fees,Expense
+678,Less: Other Contract Services Tax Preparation & Accounting,Expense
+679,Less: Other Contract Services Misc. Professional Fees,Expense
+680,Total Legal & Professional Fees,Expense
+681,Total Controllable Expense,Expense
+682,Header Non-Controllable Expense,Expense
+683,Header Property Management Fee,Expense
+684,Less: Management Fees Management Fee Expense,Expense
+685,Total Property Management Fee,Expense
+686,Header Insurance,Expense
+687,Less: Insurance Property / Casualty Insurance,Expense
+688,Less: Insurance Umbrella,Expense
+689,Less: Insurance Building Protection Policy- Expense,Expense
+690,Less: Insurance Business Personal Property,Expense
+691,Less: Insurance General Liability,Expense
+692,Less: Insurance Business Auto,Expense
+693,Less: Insurance Flood Insurance,Expense
+694,Less: Insurance Deposit Waiver Program - Expense,Expense
+695,Less: Insurance Professional Liability Insurance,Expense
+696,Less: Insurance Pollution,Expense
+697,Total Insurance,Expense
+698,Header Taxes,Expense
+699,Less: Real Estate Taxes Personal Property Tax,Expense
+700,Less: Real Estate Taxes Property Taxes,Expense
+701,Less: Real Estate Taxes Sales and Use Tax,Expense
+702,Less: Real Estate Taxes Franchise Taxes,Expense
+703,Total Taxes,Expense
+704,Total Non-Controllable Expense,Expense
+705,Total Total Operating Expense,Expense
+706,Total Net Operating Income,Expense
+707,Header Capital Expenditures,Expense
+708,Header CAP - Replacements,Expense
+709,Less: Capital Improvements CAP- Building Renovation- Interior,Expense
+710,Less: Capital Improvements CAP- Building Renovation-Exterior,Expense
+711,Less: Elevator Maintenance CAP- Elevator Improvement,Expense
+712,Less: HVAC Maintenance CAP- HVAC/Boiler/AC Replacement & Repair,Expense
+713,Less: Landscaping CAP- Landscape,Expense
+714,Less: Capital Improvements CAP- Roofing/Gutter/Siding Replacement & Repair,Expense
+715,Less: Amenities CAP- Pool Renovation & Repair,Expense
+716,Less: Capital Improvements CAP- Replacements,Expense
+717,Less: Other Contract Services CAP- Project Management Fee,Expense
+718,Less: Parking Maintenance CAP- Parking Lot/Asphalt,Expense
+719,Less: Pest Control CAP- Pest,Expense
+720,Less: Security CAP- Fire/Life Safety,Expense
+721,Less: Capital Improvements CAP- Environmental,Expense
+722,Less: Capital Improvements CAP- Equipment,Expense
+723,Less: Marketing CAP- Signage,Expense
+724,Less: Amenities CAP- Amenities,Expense
+725,Less: Capital Improvements CAP- Non-Interior Furniture/Fixtures,Expense
+726,Less: Parking Maintenance CAP- Carport/Garage,Expense
+727,Less: Commercial: Tenant Improvements CAP- Retail TI+LC,Expense
+728,Less: Security CAP- Fences/Gates/Porch/Railings,Expense
+729,Less: Electricity CAP- Electrical,Expense
+730,Less: Plumbing CAP- Plumbing,Expense
+731,Less: Capital Improvements CAP- Windows/Glass,Expense
+732,Less: Capital Improvements CAP- Miscellaneous Expenditures,Expense
+733,Less: HVAC Maintenance CAP- HVAC/Boiler/AC Repair,Expense
+734,Less: Capital Improvements CAP - Appliance Replacements,Expense
+735,Less: Capital Improvements CAP- Environmental/Remediation,Expense
+736,Less: Capital Improvements CAP- Paint,Expense
+737,Less: Technology Allocation CAP- Technology/Proptech,Expense
+738,Less: Capital Improvements CAP- Hardware,Expense
+739,Less: Capital Improvements CAP- Bathroom,Expense
+740,Less: Capital Improvements CAP- Flooring,Expense
+741,Less: Capital Improvements CAP- Kitchen,Expense
+742,Less: Insurance CAP- Insurance Claims,Expense
+743,Less: Capital Improvements CAP- Demolition,Expense
+744,"Less: Capital Improvements CAP- Administration (Permits, Blueprints, Design Consulting)",Expense
+745,Less: Technology Allocation CAP-PropTech,Expense
+746,Less: Trash Removal CAP - Hauling/Bulk Item Removal,Expense
+747,Less: Capital Improvements CAP- Common Area,Expense
+748,Less: Capital Improvements CAP- Doors,Expense
+749,Less: Capital Improvements CAP- Water Heater,Expense
+750,Total CAP - Replacements,Expense
+751,Header JOB - Renovations,Expense
+752,Less: Contract Maintenance JOB - GC/Labor Cost,Expense
+753,Less: Repair Costs JOB - Appliances New,Expense
+754,"Less: Repair Costs JOB - Electric Lights, Ceiling Fans",Expense
+755,Less: Repair Costs JOB- Hardware,Expense
+756,"Less: Repair Costs JOB - Plumbing, Vanities, Showers, Toilets",Expense
+757,Less: Repair Costs JOB - Windows,Expense
+758,Less: Repair Costs JOB - Flooring,Expense
+759,Less: Repair Costs JOB - Kitchen Upgrades,Expense
+760,Less: Repair Costs JOB - General Reno Supplies,Expense
+761,Less: Repair Costs JOB - Parking Lot Resurfacing/Paving,Expense
+762,"Less: Repair Costs JOB - Administration (Permits, Blueprints, Design Consulting)",Expense
+763,Less: Repair Costs JOB - Painting/Drywall,Expense
+764,Less: Repair Costs JOB - Doors,Expense
+765,Less: Repair Costs JOB - Miscellaneous Repairs,Expense
+766,Less: Repair Costs JOB - Electrical Panels/Upgrades,Expense
+767,Less: Exterior Decorating JOB- Building Renovation- Interior,Expense
+768,Less: Exterior Decorating JOB - Building Renovation-Exterior,Expense
+769,Less: Elevator Maintenance JOB - Elevator Improvement,Expense
+770,Less: HVAC Maintenance JOB - HVAC/Boiler/AC Replacement,Expense
+771,Less: Landscaping JOB - Landscape Renovation,Expense
+772,Less: Repair Costs JOB - Roofing Replacement/Repairs,Expense
+773,Less: Repair Costs JOB - Major Equipment,Expense
+774,Less: Marketing JOB - Signage,Expense
+775,Less: Amenities JOB - Amenities,Expense
+776,Less: Parking Maintenance JOB - Carport/Garage,Expense
+777,Less: Security JOB - Fences/Gates/Railings/Stairs,Expense
+778,Less: Repair Costs JOB - Remediation,Expense
+779,Less: Technology Allocation JOB - Technology,Expense
+780,Less: Amenities JOB - Pool Renovation,Expense
+781,Less: Contract Maintenance JOB - Project Management Fee,Expense
+782,Less: Pest Control JOB - Pest,Expense
+783,Less: Security JOB - Fire/Life Safety,Expense
+784,Less: Repair Costs JOB - Environmental/Remediation,Expense
+785,Less: Repair Costs JOB - Contingency,Expense
+786,Less: Repair Costs JOB - Demolition,Expense
+787,Less: Repair Costs JOB - Dryer Vent Cleaning & Replace,Expense
+788,Less: Repair Costs JOB - Refrigerator,Expense
+789,Less: Repair Costs JOB - Stove,Expense
+790,Less: Repair Costs JOB - Microwave,Expense
+791,Less: Repair Costs JOB - Washer and Dryer,Expense
+792,Less: Repair Costs JOB - Dishwasher,Expense
+793,Less: Repair Costs JOB - Washer and Dryer Allowance,Expense
+794,Less: Repair Costs JOB - Lights,Expense
+795,Less: Repair Costs JOB - Ceiling Fans,Expense
+796,Less: Repair Costs JOB - Tools,Expense
+797,"Less: Repair Costs JOB - Misc. (Nails, Tape, Supplies)",Expense
+798,Less: Plumbing JOB - Plumbing Fixtures,Expense
+799,Less: Plumbing JOB - Toilets,Expense
+800,Less: Plumbing JOB - Shower/Bathtub,Expense
+801,Less: Plumbing JOB - Sink,Expense
+802,Less: Plumbing JOB - Vanities,Expense
+803,Less: Repair Costs JOB - Mirror,Expense
+804,Less: Repair Costs JOB - Tile,Expense
+805,Less: Repair Costs JOB- Vinyl,Expense
+806,Less: Repair Costs JOB - Carpet,Expense
+807,"Less: Cleaning Fees JOB - Cleaning: Carpet, Vinyl, Tile",Expense
+808,Less: Repair Costs JOB - Cabinets,Expense
+809,Less: Repair Costs JOB - Backsplash,Expense
+810,Less: Repair Costs JOB - Sink,Expense
+811,Less: Repair Costs JOB - Faucet,Expense
+812,Less: Repair Costs JOB - Kitchen Countertops,Expense
+813,Less: Repair Costs JOB - Resurfacing,Expense
+814,Less: Parking Maintenance JOB - Parking Lot,Expense
+815,Less: Exterior Decorating JOB - Sidewalk,Expense
+816,Less: Cleaning Fees JOB - Pressure Washing,Expense
+817,Less: Exterior Decorating JOB - Asphalt,Expense
+818,Less: Exterior Decorating JOB - Concrete,Expense
+819,Less: Parking Maintenance JOB - Parking Lot/Garage Repairs,Expense
+820,Less: Cleaning Fees JOB - Pressure Washing Building,Expense
+821,Less: Repair Costs JOB - Permits,Expense
+822,Less: Repair Costs JOB - Blueprints,Expense
+823,Less: Other Contract Services JOB - Design Consulting,Expense
+824,Less: Marketing JOB - Marketing,Expense
+825,Less: Repair Costs JOB - Exterior Paint,Expense
+826,Less: Repair Costs JOB - Hallway,Expense
+827,Less: Repair Costs JOB - Interior Paint,Expense
+828,Less: Repair Costs JOB - Drywall,Expense
+829,Less: Repair Costs JOB - Drywall Removal,Expense
+830,Less: Repair Costs JOB - Door Closures,Expense
+831,Less: Repair Costs JOB - Handrails,Expense
+832,Less: Repair Costs JOB- Furniture,Expense
+833,Less: Repair Costs JOB - Cleaning,Expense
+834,Less: Repair Costs JOB - Cameras,Expense
+835,Less: Repair Costs JOB - Windows,Expense
+836,Less: Repair Costs JOB - Premier,Expense
+837,Less: Marketing JOB - Signature,Expense
+838,Less: Commercial: Tenant Improvements JOB - Commercial Space,Expense
+839,Less: Repair Costs JOB - Siding/Brick,Expense
+840,Less: Repair Costs JOB - Materials,Expense
+841,Less: Repair Costs JOB - Footers/Foundations,Expense
+842,Less: Repair Costs JOB - Waterproofing,Expense
+843,Less: Repair Costs JOB - Cameras,Expense
+844,Less: Repair Costs JOB - Lighting Common Area,Expense
+845,Less: Repair Costs JOB - Lighting Exterior,Expense
+846,Less: HVAC Maintenance JOB - Furnace,Expense
+847,Less: HVAC Maintenance JOB - Water Heater,Expense
+848,Less: HVAC Maintenance JOB - AC Unit,Expense
+849,Less: Landscaping JOB - Mulch,Expense
+850,Less: Landscaping JOB - Tree Trimming,Expense
+851,Less: Landscaping JOB - Irrigation System,Expense
+852,Less: Landscaping JOB - Drainage,Expense
+853,Less: Landscaping JOB - Gutter Repairs,Expense
+854,Less: Repair Costs JOB - Roof Replacement/Repairs,Expense
+855,Less: Repair Costs JOB - Misc. Repairs,Expense
+856,Less: Repair Costs JOB - Misc. Equipment,Expense
+857,Less: Repair Costs JOB - Cables,Expense
+858,Less: Amenities JOB - Clubhouse,Expense
+859,Less: Amenities JOB - Fitness Center,Expense
+860,Less: Amenities JOB - Fitness Equipment,Expense
+861,Less: Amenities JOB - Dog Park,Expense
+862,Less: Amenities JOB - EV (Electronic Vehicle) Charging Stations,Expense
+863,Less: Amenities JOB - Playground,Expense
+864,Less: Amenities JOB - Mail Center,Expense
+865,Less: Amenities JOB - Fire Pit/BBQ Area,Expense
+866,Less: Amenities JOB - Amenities Upgrade,Expense
+867,Less: Parking Maintenance JOB - Carport,Expense
+868,Less: Parking Maintenance JOB - Garage,Expense
+869,Less: Security JOB - Gate,Expense
+870,Less: Repair Costs JOB - Patio/Decking,Expense
+871,Less: Security JOB - Fence,Expense
+872,Less: Repair Costs JOB - Railings/Stairs,Expense
+873,Less: Repair Costs JOB - Retaining Walls,Expense
+874,Less: Security JOB - Fire Damage,Expense
+875,Less: Technology Allocation JOB - Tech Package,Expense
+876,Less: Security JOB - Smart Lock,Expense
+877,Less: Amenities JOB - Pool,Expense
+878,Less: Repair Costs JOB - Generator,Expense
+879,Less: Trash Removal JOB - Dumpster/Trash Compactor,Expense
+880,Less: Parking Maintenance JOB - Lighting Parking Garage,Expense
+881,Less: Repair Costs JOB - Outside Flooring,Expense
+882,Less: Repair Costs JOB - Patio/Balcony,Expense
+883,Less: Plumbing JOB - Plumbing – Exterior,Expense
+884,Less: Amenities JOB - Business Center Computers,Expense
+885,Less: Amenities JOB - Grill / Picnic Area,Expense
+886,Less: Amenities JOB - Maintenance Storage/Shop,Expense
+887,Less: Amenities JOB - Pet Upgrade,Expense
+888,Less: Amenities JOB - Water Upgrade,Expense
+889,Less: Parking Maintenance JOB - Garage Door,Expense
+890,Less: Parking Maintenance JOB - Garage Door Opener,Expense
+891,Total JOB - Renovations,Expense
+892,Total Capital Expenditures,Expense
+893,Total NOI Less Non-Recurring Expenses,Expense
+894,Header Other Non-Operating Expenses,Expense
+895,Less: Interest Mortgage Interest,Expense
+896,Less: Interest Interest Expense - Other,Expense
+897,Less: Interest Loan Fees,Expense
+898,Not Classified Asset Management Fees,Expense
+899,Not Classified Haven- Start up costs,Expense
+900,Not Classified Miscellaneous- Non-Operating Expense/Income,Expense
+901,Less: Depreciation Depreciation Expense,Expense
+902,Not Classified Amortization Expense,Expense
+903,Less: Bad Debt Extraordinary Bad Debt,Expense
+904,Less: Employee Units Extraordinary Employee Expense,Expense
+905,Not Classified BPP Ownership Expense,Expense
+906,Less: Interest Interest Cap Rate Return,Expense
+907,Total Other Non-Operating Expenses,Expense
+908,Header Other Income (Below NOI),Expense
+909,Less: Insurance Insurance Disbursement,Expense
+910,Less: Insurance JOB - Fire,Expense
+911,Less: Insurance JOB - Water / Flood,Expense
+912,Total Other Income (Below NOI),Expense
+913,Total Net Income,Expense
+914,Gross Potential Rent Gross Market Rent,Income
+915,Gain / Loss to Lease Loss/Gain to Lease,Income
+916,Gross Potential Rent Residential Rent,Income
+917,Plus: Commercial Income Commercial Rent,Income
+918,Less: Concessions Commercial Concessions,Income
+919,Less: Bad Debt Less: Commercial Write-Offs,Income
+920,Plus: Short Term Premiums Short Stay Revenue,Income
+921,Plus: Short Term Premiums Corporate Housing Income,Income
+922,Plus: Misc. Other Income Subsidy Assistance,Income
+923,Total TOTAL POTENTIAL RENT,Income
+924,Plus: Misc. Other Income Commission Income - Leasing,Income
+925,Less: Management Fees Management Fees - Commercial,Income
+926,Less: Management Fees Management Fees -Residential,Income
+927,Plus: Misc. Other Income Marketing Fees,Income
+928,Plus: Misc. Other Income Maintenance Reimbursement,Income
+929,Plus: Misc. Other Income Field Management Reimbursement,Income
+930,Plus: Misc. Other Income Other Advisory Fees,Income
+931,Plus: Misc. Other Income General Contractor Revenue,Income
+932,Plus: Misc. Other Income Office Payroll Reimbursement,Income
+933,Total TOTAL COMMERCIAL RENT REVENUE,Income
+934,Less: Concessions Concession,Income
+935,Plus: Additional Resident Fee Move-In Fee Concession,Income
+936,"Less: Office, Model, Down Units Less: Model Unit Loss",Income
+937,"Less: Office, Model, Down Units Less: Non Revenue Units",Income
+938,Less: Employee Units Less: Employee Units,Income
+939,Less: Vacancy Less: Vacancy,Income
+940,Less: Bad Debt Less: Residential Write-offs,Income
+941,Total TOTAL ECONOMIC LOSS,Income
+942,Total NET RESIDENTIAL RENT REVENUE,Income
+943,Plus: CAM Charges Maintenance Charges,Income
+944,Plus: CAM Charges Passthru OPEX,Income
+945,Plus: CAM Charges Passthru Insurance,Income
+946,Plus: CAM Charges Passthru IT Software,Income
+947,Plus: CAM Charges Estimated RE Tax Charges,Income
+948,Plus: Utilities Income: Electricity Passthru Electricity,Income
+949,Plus: Utilities Income: Water Passthru Water & Sewer,Income
+950,Plus: Utilities Income: Other Passthru Utility Package,Income
+951,Plus: CAM Charges Passthru Amenity Fee,Income
+952,Plus: CAM Charges Estimated CAM Charges,Income
+953,Total TOTAL REIMBURSEMENT,Income
+954,Header PERCENTAGE RENT,Income
+955,Plus: Commercial Income Sales Percentage,Income
+956,Total TOTAL PERCENTAGE RENT,Income
+957,Header OTHER INCOME,Income
+958,Plus: Additional Resident Fee Move In Charges,Income
+959,Plus: Additional Resident Fee Move In Fee - Canceled,Income
+960,Less: Concessions Move-In Charges Concession,Income
+961,Plus: Short Term Premiums Short-Term Fees,Income
+962,Plus: Short Term Premiums Month to Month Fee,Income
+963,Plus: Late Charges Insufficient Notice Fee,Income
+964,Plus: Pet Pet Rent,Income
+965,Plus: Pet One-Time Pet Fee,Income
+966,Plus: Parking Parking,Income
+967,Plus: Parking Parking Concession,Income
+968,Plus: Misc. Other Income Event Income,Income
+969,Plus: Misc. Other Income Amenity Fee,Income
+970,Plus: Misc. Other Income Miscellaneous Income,Income
+971,Plus: Move Out Income Lock Out Income,Income
+972,Plus: Laundry and Vending Vending Machine Income,Income
+973,Plus: Damages Reimbursement Damage Income,Income
+974,Plus: Application Fees Application Fee,Income
+975,Plus: Application Fees Application Fee Concession,Income
+976,Plus: Misc. Other Income Holding Fee,Income
+977,Plus: Misc. Other Income Holding Fee Concession,Income
+978,Plus: Termination Fees Termination Fee,Income
+979,Plus: Termination Fees Transfer Fee,Income
+980,Plus: Misc. Other Income ATM Revenue,Income
+981,Plus: Misc. Other Income Interest Income,Income
+982,Plus: Late Charges Late Fee,Income
+983,Plus: Late Charges NSF Fee,Income
+984,Plus: Move Out Income Lockout / Keyfob,Income
+985,Plus: Late Charges Legal Fees Reimbursement,Income
+986,Plus: Late Charges Bad Debt Recovery Income,Income
+987,Total TOTAL OTHER INCOME,Income
+988,Total TOTAL INCOME,Income
+989,Less: Repair Costs Stove Repairs & Parts,Expense
+990,Less: Repair Costs Refrigerator Repairs & Parts,Expense
+991,Less: Unit Turnover Unit Repairs,Expense
+992,Less: Repair Costs W/D & Dishwasher Repair,Expense
+993,Less: Repair Costs Carpet - Common Area,Expense
+994,Less: Contract Maintenance Contract Labor,Expense
+995,Less: Unit Turnover Kitchen Cabinet Repair,Expense
+996,Less: Repair Costs Water Heater Repairs & Parts,Expense
+997,Less: Unit Turnover Furniture Repair,Expense
+998,Less: Pest Control Pest Control,Expense
+999,Less: Exterior Decorating Exterior Building Repair,Expense
+1000,Less: Interior Decorating Interior Building Repair,Expense
+1001,Less: Repair Costs Maintenance Supplies,Expense
+1002,Less: Cleaning Fees Janitorial,Expense
+1003,Less: Cleaning Fees Contract Cleaning,Expense
+1004,Less: Cleaning Fees Cleaning Supplies,Expense
+1005,Less: Contract Maintenance Contract Painting,Expense
+1006,Less: Contract Maintenance Paint Supplies,Expense
+1007,Less: Security Door & Lock Repairs,Expense
+1008,Less: HVAC Maintenance HVAC Contract,Expense
+1009,Less: HVAC Maintenance HVAC Repairs,Expense
+1010,Less: Amenities Health Club and Pool Supplies,Expense
+1011,Less: Amenities Health Club and Pool Repairs,Expense
+1012,Less: Repair Costs Electrical Repairs,Expense
+1013,Less: Elevator Maintenance Elevator Contract,Expense
+1014,Less: Elevator Maintenance Elevator Repairs,Expense
+1015,Less: Other Contract Services Equipment Rental,Expense
+1016,Less: Repair Costs Equipment Repairs,Expense
+1017,Less: Unit Turnover Floors / Refinishing,Expense
+1018,Less: Parking Maintenance Garage Repairs,Expense
+1019,Less: Repair Costs Glass Repair,Expense
+1020,Less: Landscaping Landscaping,Expense
+1021,Less: Security Intercom System,Expense
+1022,Less: Security Life Safety,Expense
+1023,Less: Parking Maintenance Parking Lot Maintenance,Expense
+1024,Less: Plumbing Contract Plumbing,Expense
+1025,Less: Plumbing Plumbing Supplies,Expense
+1026,Less: Exterior Decorating Roof Repairs,Expense
+1027,Less: Maintenance Salary R&M Salaries,Expense
+1028,Less: Marketing Signs/Directories,Expense
+1029,Less: Security Security Service,Expense
+1030,Less: Snow Removal Snow Removal,Expense
+1031,Less: Unit Turnover Tub Repair / Refinishing,Expense
+1032,Less: Office Expenses Uniforms,Expense
+1033,Less: Cleaning Fees Window Washing,Expense
+1034,Less: Repair Costs Window Repair,Expense
+1035,Less: Repair Costs Miscellaneous Expense - R&M,Expense
+1036,Total TOTAL REPAIRS & MAINT.,Expense
+1037,Header UTILITY EXPENSE,Expense
+1038,Less: Electricity Electricity,Expense
+1039,Less: Electricity Vacant Electricity,Expense
+1040,Less: Gas Gas,Expense
+1041,Less: Gas Vacant Gas,Expense
+1042,Less: Cable Telephone/ Internet Service,Expense
+1043,Less: Trash Removal Trash Disposal,Expense
+1044,Less: Water Water & Sewer,Expense
+1045,Less: Trash Removal Valet Trash Service,Expense
+1046,Total TOTAL UTILITY EXPENSE,Expense
+1047,Less: Unit Turnover ATC-Flooring Repairs,Expense
+1048,Less: Unit Turnover ATC-Flooring Replacements,Expense
+1049,Less: Unit Turnover ATC-Contract Painting,Expense
+1050,Less: Unit Turnover ATC-Painting Supplies,Expense
+1051,Less: Cleaning Fees ATC-Contract Cleaning,Expense
+1052,Less: Miscellaneous Expenses ATC-Other,Expense
+1053,Total TOTAL CONTROLLABLE EXPENSES,Expense
+1054,Less: Office Expenses Office Rent,Expense
+1055,Less: Office Expenses Master Lease CAM/RET Expense,Expense
+1056,Less: Office Expenses Office Supplies,Expense
+1057,Less: Office Expenses Employee Sundry,Expense
+1058,Less: Other Contract Services Printer/Copier Contract,Expense
+1059,Less: Advertising Advertising & Promotion - Flats,Expense
+1060,Less: SEO Digital Marketing,Expense
+1061,Less: Technology Allocation Building Software Expense,Expense
+1062,Less: Website Marketing– Website Expenses,Expense
+1063,Less: Technology Allocation CRM & Leasing Software Expenses,Expense
+1064,Less: Marketing Marketing Fees,Expense
+1065,Less: Technology Allocation Listing Software Services,Expense
+1066,Less: Miscellaneous Expenses Event Expense,Expense
+1067,Less: Office Expenses Gift Cards,Expense
+1068,Less: Marketing Leasing Signage,Expense
+1069,Less: Office Expenses Floorplans,Expense
+1070,Less: Office Expenses Videos,Expense
+1071,Less: Broker Commissions Broker Commissions,Expense
+1072,"Less: Office, Model, Down Units Referral Rent Credits",Expense
+1073,Less: Other Contract Services Accounting,Expense
+1074,Less: Office Expenses Credit Reports,Expense
+1075,Less: Legal Fees Legal,Expense
+1076,Less: Legal Fees Legal Evictions,Expense
+1077,Less: Broker Commissions Locators,Expense
+1078,Less: Dues and Subscriptions Dues & Subscriptions,Expense
+1079,Less: Office Expenses Recruiting,Expense
+1080,Less: Training Training,Expense
+1081,Less: Payroll Taxes & Benefits Taxes & Licenses,Expense
+1082,Less: Office Expenses Postage/Courier,Expense
+1083,Less: Other Contract Services Professional Fees - Other,Expense
+1084,Less: Dues and Subscriptions Permits/Inspections,Expense
+1085,Less: Other Contract Services Temporary Clerical Help,Expense
+1086,Less: Meals and Entertainment Mileage/Auto,Expense
+1087,Less: Meals and Entertainment Travel,Expense
+1088,Less: Meals and Entertainment Travel Meals,Expense
+1089,Less: Office Expenses Parking Expense,Expense
+1090,Less: Office Expenses Bank Charges Expense,Expense
+1091,Less: Office Expenses Bank Deposit Fee,Expense
+1092,Less: Office Expenses Charitable Donations,Expense
+1093,Less: Office Expenses Gifts,Expense
+1094,Less: Technology Allocation Computer Hardware,Expense
+1095,Less: Technology Allocation Computer - Soft Costs,Expense
+1096,Less: Office Expenses Vendor Late Fees,Expense
+1097,Less: Miscellaneous Expenses Miscellaneous Expense - G&A,Expense
+1098,Total TOTAL G & A EXPENSE,Expense
+1099,Less: Manager Salary Corp Management Salaries,Expense
+1100,Less: Other Salaries Management Salaries,Expense
+1101,Less: Bonuses and Commissions Management Bonuses,Expense
+1102,Less: Other Salaries Concierge Salaries,Expense
+1103,Less: Other Salaries Concierge Overtime,Expense
+1104,Less: Bonuses and Commissions Concierge Bonuses,Expense
+1105,Less: Maintenance Salary Package Runner Salaries,Expense
+1106,Less: Maintenance Salary Package Runner Overtime,Expense
+1107,Less: Bonuses and Commissions Package Runner Bonuses,Expense
+1108,Less: Other Salaries Office Support Salaries,Expense
+1109,Less: Other Salaries Field Admin Support Salaries,Expense
+1110,Less: Maintenance Salary Maintenance Salaries,Expense
+1111,Less: Maintenance Salary Maintenance Overtime,Expense
+1112,Less: Bonuses and Commissions Maintenance Bonuses,Expense
+1113,Less: Leasing Agent Salary Leasing Salaries,Expense
+1114,Less: Bonuses and Commissions Leasing Bonuses,Expense
+1115,Less: Other Salaries Method C. Payroll,Expense
+1116,Less: Other Salaries CSCP Payroll,Expense
+1117,Less: Payroll Taxes & Benefits Payroll Taxes,Expense
+1118,Less: Payroll Taxes & Benefits Medical Plan Contributions,Expense
+1119,Less: Payroll Taxes & Benefits Employer 401K Contrib.,Expense
+1120,Less: Other Salaries Payroll Admin Fees,Expense
+1121,Less: Manager Salary Lawrence House Payroll,Expense
+1122,Less: Manager Salary Clark 800 - Payroll,Expense
+1123,Less: Manager Salary Otis Payroll,Expense
+1124,Less: Manager Salary LaSalle Payroll,Expense
+1125,Less: Manager Salary Bridgeview Payroll,Expense
+1126,Less: Manager Salary Adams Payroll,Expense
+1127,Less: Manager Salary Draper Payroll,Expense
+1128,Less: Manager Salary Church & State Payroll,Expense
+1129,Less: Manager Salary Duncan Payroll,Expense
+1130,Less: Manager Salary Rosie Payroll,Expense
+1131,Less: Manager Salary Duffey Payroll,Expense
+1132,Less: Manager Salary Winnie Payroll,Expense
+1133,Less: Manager Salary Synagogue Payroll,Expense
+1134,Less: Manager Salary Bachelor Payroll,Expense
+1135,Less: Manager Salary Windale Payroll,Expense
+1136,Less: Manager Salary North Hotel Payroll,Expense
+1137,Less: Manager Salary Milwood Payroll,Expense
+1138,Less: Manager Salary Henry Payroll,Expense
+1139,Less: Manager Salary Ridge Payroll,Expense
+1140,Less: Manager Salary June Payroll,Expense
+1141,Total TOTAL PAYROLL,Expense
+1142,Less: Real Estate Taxes Property Tax,Expense
+1143,Less: Management Fees Management Fees,Expense
+1144,Less: Parking Maintenance Parking Management Expense,Expense
+1145,Less: Insurance Insurance,Expense
+1146,Less: Miscellaneous Expenses RET Protest Fees,Expense
+1147,Total TOTAL OPERATING EXPENSES,Expense
+1148,Total NET OPERATING INCOME,Expense
+1149,Header RECURRING REPLACEMENTS,Expense
+1150,Less: Unit Turnover RR - Appliance - Stove,Expense
+1151,Less: Unit Turnover RR - Appliance - Hot Water Heater,Expense
+1152,Less: Unit Turnover RR - Appliance - Dishwasher,Expense
+1153,Less: Unit Turnover RR - Appliance - Refrigerator,Expense
+1154,Less: Unit Turnover RR - Appliance - W/D,Expense
+1155,Less: Unit Turnover RR - Carpet,Expense
+1156,Less: Unit Turnover RR - Doors/ Locks,Expense
+1157,Less: Unit Turnover RR - Drapes / Blinds,Expense
+1158,Less: HVAC Maintenance RR - HVAC,Expense
+1159,Less: HVAC Maintenance RR - HVAC Compressor,Expense
+1160,Less: Unit Turnover RR - Light Fixtures Exterior,Expense
+1161,Less: Unit Turnover RR - Light Fixtures Interior,Expense
+1162,Less: Unit Turnover RR - Microwaves,Expense
+1163,Less: Plumbing RR - Plumbing,Expense
+1164,Less: Unit Turnover RR - Sinks,Expense
+1165,Less: Unit Turnover RR - Tile/Vinyl Flooring,Expense
+1166,Less: Unit Turnover RR - Other,Expense
+1167,Total TOTAL RECURRING REPLACEMENTS,Expense
+1168,Less: Capital Improvements Construction Expenses,Expense
+1169,Total TOTAL CONSTRUCTION EXPENSES,Expense
+1170,Total TOTAL CAPITAL EXPENDITURES,Expense
+1171,Less: Depreciation Amortization,Expense
+1172,Total TOTAL DEPRECIATION/AMORTIZATION,Expense
+1173,Not Classified Other Owner Income,Expense
+1174,Not Classified Other Owner Expense,Expense
+1175,Not Classified Extraordinary Legal,Expense
+1176,Not Classified Leasing Fees,Expense
+1177,Not Classified Turn Fees,Expense
+1178,Not Classified Asset Management Fee,Expense
+1179,Not Classified Valet Recycling,Expense
+1180,Less: Parking Maintenance Parking Mgmt Expense,Expense
+1181,Not Classified Gain/Loss on Sale,Expense
+1182,Not Classified Forgiveness of Debt,Expense
+1183,Less: Bad Debt Bad Debt Expense,Expense
+1184,Not Classified Fee Reimbursement Expense,Expense
+1185,Less: Interest Mortgage Interest,Expense
+1186,Less: Interest Other Interest - Debt-Finance,Expense
+1187,Less: Interest 2nd Mortgage Interest,Expense
+1188,Less: Interest Other Interest,Expense
+1189,Total TOTAL OWNERS EXPENSES,Expense
+1190,Total NET INCOME,Expense
+1191,Total NET CASH FLOW,Expense
+1192,Header INCOME,Income
+1193,Header OPERATING INCOME,Income
+1194,Gross Potential Rent Market Rent,Income
+1195,Gross Potential Rent Rent,Income
+1196,"Less: Office, Model, Down Units Admin Units",Income
+1197,Gain / Loss to Lease Loss/Gain to Lease,Income
+1198,Less: Employee Units Employee Concessions,Income
+1199,Plus: Prepaid Rent Accelerated Rent,Income
+1200,Plus: Parking Parking/Garage Rent,Income
+1201,Plus: Misc. Other Income Amenity Fee,Income
+1202,Plus: Short Term Premiums Month to Month Fee,Income
+1203,Plus: Pet Pet Fee,Income
+1204,Plus: Storage Storage Unit Rent,Income
+1205,Plus: Late Charges Owner Income Late Fees,Income
+1206,Plus: Misc. Other Income Interest Income,Income
+1207,Less: Vacancy Vacancy Loss,Income
+1208,Plus: Laundry and Vending Coin Laundry Income,Income
+1209,Plus: Utilities Income: Other Owner Utility Administrative Fee,Income
+1210,Plus: Utilities Income: Other Tenant Utilities,Income
+1211,Plus: Utilities Income: Other Reimbursed Utility Cap,Income
+1212,Plus: Laundry and Vending Laundry Income,Income
+1213,Plus: Misc. Other Income Misc Income,Income
+1214,Plus: Late Charges Owner NSF Fee,Income
+1215,Plus: CAM Charges CAM Reimbursement,Income
+1216,Plus: Move Out Income Owner Income Lock Out/Rekey,Income
+1217,Plus: Application Fees Owner Income App Fees,Income
+1218,Plus: Additional Resident Fee Owner Income Lease Changes,Income
+1219,Plus: Termination Fees Owner Income Lease Violation,Income
+1220,Plus: Admin Fees Owner Lease Admin Fee,Income
+1221,Plus: Renter's Insurance Resident Liability Premium,Income
+1222,Less: Legal Fees Owner Renters Legal Liability,Income
+1223,Plus: Additional Resident Fee Convenience Fees,Income
+1224,Plus: Move Out Income Lock Out/Key Fee,Income
+1225,Total Total Agent Fee,Income
+1226,Plus: Termination Fees Owner 10-Day Notice Fee,Income
+1227,Plus: Late Charges Late Fee,Income
+1228,Less: Bad Debt Bad-Debt Income,Income
+1229,Plus: Pet Non-Refundable Pet Fee,Income
+1230,Plus: Termination Fees Owner Lease Break Fee,Income
+1231,Plus: Utilities Income: Cable Tenant Utilities - Cable/Internet/Telephone,Income
+1232,Plus: Utilities Income: Water Reimbursed Water/Sewer Utilities,Income
+1233,Plus: Utilities Income: Electricity Reimbursed Gas/Electric Utilities,Income
+1234,Plus: Utilities Income: Trash Reimbursed Trash/Recycling Utilities,Income
+1235,Plus: Utilities Income: Pest Reimbursed Pest Control,Income
+1236,Plus: Move Out Income Reimbursed Turnover General,Income
+1237,Plus: Utilities Income: Trash Reimbursed Litter Pick Up,Income
+1238,Plus: Termination Fees Reimbursed Legal & Professional Services,Income
+1239,Plus: Utilities Income: Other Reimbursed Utilities - Storm Drainage,Income
+1240,Less: Concessions Concessions,Income
+1241,Less: Unit Turnover Reimbursed Turnover Cleaning,Income
+1242,Less: Unit Turnover Reimbursed Turnover Flooring,Income
+1243,Less: Unit Turnover Reimbursed Turnover Painting,Income
+1244,Less: Unit Turnover Reimbursed Turnover Repairs,Income
+1245,Total TOTAL OPERATING INCOME,Income
+1246,Total TOTAL INCOME,Income
+1247,Header OPERATING EXPENSES,Expense
+1248,Less: Other Contract Services Inspections,Expense
+1249,Less: Other Contract Services Resident Screening,Expense
+1250,Less: Office Expenses Answering Services,Expense
+1251,"Less: Other Taxes, Assessments and Fees Sales & Use Tax",Expense
+1252,Less: Office Expenses Postage,Expense
+1253,Less: Legal Fees Renters Legal Liability,Expense
+1254,Less: Cable Cable/Internet Utilities,Expense
+1255,Less: Cleaning Fees Carpet Cleaning/Repairs,Expense
+1256,Less: Repair Costs Flooring,Expense
+1257,Less: Repair Costs Painting,Expense
+1258,Less: Security Lock Service,Expense
+1259,Less: Marketing Signs,Expense
+1260,Less: Plumbing Plumbing,Expense
+1261,Less: Office Expenses Telephone Utilities,Expense
+1262,Less: Office Expenses General & Administrative Costs,Expense
+1263,Less: Cable Office Cable/Internet Utilities,Expense
+1264,Less: Technology Allocation Technology Fee,Expense
+1265,Less: Technology Allocation Revenue Management Software,Expense
+1266,Less: Water Water/Sewer Utilities,Expense
+1267,Less: Office Expenses Utility Billing Services,Expense
+1268,Less: Pest Control Pest Control,Expense
+1269,Less: Repair Costs Electrical Repairs,Expense
+1270,Less: HVAC Maintenance HVAC Repairs,Expense
+1271,Less: Exterior Decorating Roof Repairs,Expense
+1272,Less: Security Fire/Life Safety,Expense
+1273,Less: Cleaning Fees Contract - Cleaning,Expense
+1274,Less: Landscaping Contract - Lawn/Grounds,Expense
+1275,Less: Pest Control Contract - Pest Control,Expense
+1276,Less: Security Contract - Security,Expense
+1277,Less: Elevator Maintenance Contract - Elevator,Expense
+1278,Less: Manager Salary Community Manager,Expense
+1279,Less: Maintenance Salary Maintenance Supervisor,Expense
+1280,Less: Leasing Agent Salary Leasing Agent,Expense
+1281,Less: Manager Salary Assistant Community Manager,Expense
+1282,Less: Unit Turnover Turnover Expense,Expense
+1283,Less: Cleaning Fees Turnover Cleaning,Expense
+1284,Less: Unit Turnover Turnover Painting,Expense
+1285,Less: Unit Turnover Turnover Flooring,Expense
+1286,Less: Repair Costs Turnover Repairs,Expense
+1287,Less: Repair Costs Appliance Repair,Expense
+1288,Less: Dues and Subscriptions Dues or Subscriptions,Expense
+1289,Less: Contract Maintenance Drain Cleaning,Expense
+1290,Less: Trash Removal Litter pick up,Expense
+1291,Less: Insurance Insurance,Expense
+1292,Less: Amenities Pool/Spa Expense,Expense
+1293,Less: Accounting and Audit Fees Bank Fees,Expense
+1294,Less: Repair Costs Maintenance Supplies,Expense
+1295,Less: Real Estate Taxes Property Tax Expense,Expense
+1296,Less: Real Estate Taxes Personal Property Tax,Expense
+1297,Less: Electricity Gas/Electricity Utilities,Expense
+1298,Less: Trash Removal Trash/Recycling Utilities,Expense
+1299,Less: Security Alarm Monitoring,Expense
+1300,Less: Training Education,Expense
+1301,Less: Other Contract Services Equipment and Furniture Rental,Expense
+1302,Less: Legal Fees Eviction/Demand Fees,Expense
+1303,Less: Legal Fees Legal fees,Expense
+1304,Less: Marketing Marketing,Expense
+1305,Less: SEO Online Advertising,Expense
+1306,Less: Website Website/SEO,Expense
+1307,Less: Technology Allocation Reputation Management,Expense
+1308,Less: Office Expenses Office supplies & expense,Expense
+1309,Less: Repair Costs Repairs & Maintenance,Expense
+1310,Less: Payroll Taxes & Benefits Payroll Taxes/Benefits,Expense
+1311,Less: Management Fees Management Fee,Expense
+1312,Less: Maintenance Salary Exterior Grounds Maintenance,Expense
+1313,Less: Marketing Tenant Appreciation,Expense
+1314,Total TOTAL OPERATING EXPENSES,Expense
+1315,Total NET OPERATING INCOME,Expense
+1316,Header NONOPERATING EXPENSES,Expense
+1317,Less: Insurance Insurance Claim,Expense
+1318,Less: Legal Fees Legal Fees,Expense
+1319,Less: Interest Interest Cap Rate Reimbursement,Expense
+1320,Not Classified Preferred Equity Payment,Expense
+1321,Less: Interest Loan Fee,Expense
+1322,Not Classified Ownership Expense,Expense
+1323,Less: Other Contract Services Professional Services,Expense
+1324,Less: Legal Fees Legal Fees/Owner Exp,Expense
+1325,Less: Capital Improvements Capitalized Exterior Improvements,Expense
+1326,Less: Capital Improvements Capitalized Partial Renovation,Expense
+1327,Less: Capital Improvements Capitalized Flooring,Expense
+1328,Less: Landscaping Capitalized Landscaping,Expense
+1329,Less: Capital Improvements Capitalized Painting,Expense
+1330,Less: Capital Improvements Cap-Unit Upgrds/Inter Improv,Expense
+1331,Less: Capital Improvements Value-Add Renovation Fee,Expense
+1332,Less: Concessions Renovation Lease-Up Expenses: Concessions,Expense
+1333,Less: Broker Commissions Renovation Lease Up Expenses: Commissions,Expense
+1334,Less: Marketing Renovation Lease Up Expenses: Marketing,Expense
+1335,Less: Security Capitalized Fire/Life Safety,Expense
+1336,Not Classified Transition Management Past Due Invoices,Expense
+1337,Less: Capital Improvements Capitalized HVAC,Expense
+1338,Less: Capital Improvements Capitalized Fence Gates,Expense
+1339,Less: Capital Improvements Capitalized Appliances,Expense
+1340,Less: Capital Improvements Capitalized Roofs,Expense
+1341,Less: Capital Improvements Capitalized Plumbing,Expense
+1342,Less: Capital Improvements Capitalized Exterior Windows/Doors & Siding,Expense
+1343,Less: Capital Improvements Capitalized Signage,Expense
+1344,Less: Capital Improvements Capitalized Clubhouse/Amenity Area,Expense
+1345,Less: Unit Turnover Capitalized Turnover Painting,Expense
+1346,Less: Unit Turnover Capitalized Turnover Flooring,Expense
+1347,Less: Interest Mortgage Interest Paid,Expense
+1348,Not Classified Asset Management Fee,Expense
+1349,Total TOTAL NONOPERATING EXPENSES,Expense
+1350,Total NET INCOME,Expense
+1351,Header INCOME,Income
+1352,Header OPERATING INCOME,Income
+1353,Header INCOME,Income
+1354,Header RENTAL INCOME,Income
+1355,Header GROSS POTENTIAL INCOME,Income
+1356,Gross Potential Rent Gross Potential Market Rent,Income
+1357,Gross Potential Rent Rental Income,Income
+1358,Gross Potential Rent Rental Income - Subsidized,Income
+1359,Gain / Loss to Lease Gain / Loss to Lease,Income
+1360,Total TOTAL GROSS POTENTIAL INCOME,Income
+1361,Header RENT ADJUSTMENTS,Income
+1362,Less: Vacancy Vacancy,Income
+1363,Plus: Prepaid Rent Plus Prepaid Rent,Income
+1364,"Less: Office, Model, Down Units Non Revenue Units (Down Units)",Income
+1365,"Less: Office, Model, Down Units Non Revenue Units (Down Units - Claim)",Income
+1366,"Less: Office, Model, Down Units Non Revenue Units (Down Units - Claim Recovery)",Income
+1367,"Less: Office, Model, Down Units Model Unit",Income
+1368,Plus: Short Term Premiums Guest Suite,Income
+1369,Not Classified Employee Unit,Income
+1370,Not Classified Courtesy Officer Unit,Income
+1371,Less: Concessions Concessions - Upfront,Income
+1372,Less: Concessions Concessions - Recurring,Income
+1373,Less: Concessions Concessions - Other,Income
+1374,Gross Potential Rent Rent Credit - Referral,Income
+1375,Gross Potential Rent Rent Credit - Operations,Income
+1376,Not Classified Delinquency,Income
+1377,Plus: Short Term Premiums Rent Adjustments - Other Month,Income
+1378,Less: Bad Debt Rents Collected by Previous Management Company,Income
+1379,Total RENT ADJUSTMENTS TOTAL,Income
+1380,Header BAD DEBT,Income
+1381,Less: Bad Debt Bad Debt Write Off,Income
+1382,Less: Bad Debt Bad Debt Recovery,Income
+1383,Less: Bad Debt Bad Debt Expense,Income
+1384,Total TOTAL BAD DEBT,Income
+1385,Total NET RENTAL INCOME,Income
+1386,Header UTILITY INCOME,Income
+1387,Plus: Utilities Income: Electricity Reimbursed Electric,Income
+1388,Plus: Utilities Income: Electricity Utility Billback - Vacant Electric,Income
+1389,Not Classified Reimbursed Gas,Income
+1390,Plus: Utilities Income: Water Reimbursed Water,Income
+1391,Plus: Utilities Income: Water Reimbursed Sewer,Income
+1392,Plus: Utilities Income: Trash Reimbursed Trash,Income
+1393,Plus: Utilities Income: Trash Reimbursed Valet Living / Valet Trash,Income
+1394,Plus: Utilities Income: Other Reimbursed Service Fees,Income
+1395,Not Classified Reimbursed Submeter Fees,Income
+1396,Plus: Utilities Income: Other Reimbursed Utility Processing Fees,Income
+1397,Not Classified RUB Income,Income
+1398,Total TOTAL UTILITY INCOME,Income
+1399,Header OTHER INCOME,Income
+1400,Plus: Late Charges Late Rent Fees,Income
+1401,Plus: Late Charges NSF Fees,Income
+1402,Plus: Pet Pet Fees,Income
+1403,Plus: Termination Fees Termination Fees (Lease Break),Income
+1404,Plus: Termination Fees Lease Cancellation Fees,Income
+1405,Plus: Misc. Other Income Accelerated Rent,Income
+1406,Plus: Misc. Other Income Month to Month Fee,Income
+1407,Plus: Misc. Other Income Short Term Lease Fee,Income
+1408,Plus: Misc. Other Income Amenity Fee - Upfront,Income
+1409,Plus: Misc. Other Income Amenity Fee - Recurring,Income
+1410,Plus: Misc. Other Income Deposit Fee,Income
+1411,Plus: Damages Reimbursement Deposit Forfeited,Income
+1412,Plus: Misc. Other Income Deposit Non-Refundable,Income
+1413,Plus: Misc. Other Income Package Locker/Delivery Service Fees,Income
+1414,Plus: Storage Storage Fees,Income
+1415,Plus: Parking Parking Space Fee,Income
+1416,Plus: Parking Parking Carport Fee,Income
+1417,Plus: Parking Parking Tag Fee,Income
+1418,Plus: Parking Garage Remote Fee,Income
+1419,Plus: Parking Carport Garage Fee,Income
+1420,Plus: Misc. Other Income Damage Fees,Income
+1421,Plus: Misc. Other Income Carpet Cleaning Fees,Income
+1422,Plus: Misc. Other Income Cleaning Fees,Income
+1423,Plus: Application Fees Application Fees,Income
+1424,Plus: Misc. Other Income Transfer Fees,Income
+1425,Less: Capital Improvements Key Replacement,Income
+1426,Plus: Misc. Other Income Change Lock Fee,Income
+1427,Plus: Utilities Income: Pest Pest Control Fees,Income
+1428,Plus: Misc. Other Income Work Order Billback,Income
+1429,Plus: Laundry and Vending Laundry Income,Income
+1430,Plus: Misc. Other Income Adminstrative Fees,Income
+1431,Plus: Late Charges Legal Fees,Income
+1432,Total TOTAL OTHER INCOME,Income
+1433,Header MISC INCOME,Income
+1434,Not Classified Clubhouse Rental Income,Income
+1435,Plus: Laundry and Vending Vending Machine Income,Income
+1436,Not Classified Cable Income,Income
+1437,Not Classified Internet Income,Income
+1438,Plus: Misc. Other Income Interest Income,Income
+1439,Plus: Misc. Other Income Insurance Recovery - Pay with Rent,Income
+1440,Plus: Misc. Other Income Insurance Recovery - Forced Placed,Income
+1441,Plus: Misc. Other Income Retail Income,Income
+1442,Less: Concessions Retail Concession,Income
+1443,Plus: Parking Retail Parking Income,Income
+1444,Total TOTAL MISC INCOME,Income
+1445,Total TOTAL INCOME,Income
+1446,Header OPERATING EXPENSES,Expense
+1447,Header PAYROLL,Expense
+1448,Header PAYROLL - SALARIES,Expense
+1449,Less: Maintenance Salary Regional Maintenance Supervisor,Expense
+1450,Less: Manager Salary Property Manager Payroll,Expense
+1451,Less: Manager Salary Assistant Manager Payroll,Expense
+1452,Less: Bonuses and Commissions Leasing Manager Payroll,Expense
+1453,Less: Leasing Agent Salary Leasing Agent Payroll,Expense
+1454,Less: Maintenance Salary Senior Maintenance Supervisor Payroll,Expense
+1455,Less: Maintenance Salary Maintenance Supervisor Payroll,Expense
+1456,Less: Maintenance Salary Assistant Maintenance Supervisor Payroll,Expense
+1457,Less: Maintenance Salary Service Technician Payroll,Expense
+1458,Less: Maintenance Salary Grounds Payroll,Expense
+1459,Less: Maintenance Salary Porter Payroll,Expense
+1460,Less: Leasing Agent Salary Seasons - Mgt. Leasing & Bookkpng.,Expense
+1461,Less: Maintenance Salary Seasons - Maintenance & Interior,Expense
+1462,Less: Bonuses and Commissions Seasons - Rental & Renewal Bonuses,Expense
+1463,Less: Bonuses and Commissions Seasons - Incentive Pay,Expense
+1464,Less: Payroll Taxes & Benefits Seasons - Payroll Taxes & Benefits,Expense
+1465,Less: Other Salaries Seasons - Temporary Agency Payroll,Expense
+1466,Total TOTAL PAYROLL - SALARIES,Expense
+1467,Header PAYROLL - OVERTIME,Expense
+1468,Less: Leasing Agent Salary Leasing Agent Overtime,Expense
+1469,Less: Maintenance Salary Maintenance Supervisor Overtime,Expense
+1470,Less: Maintenance Salary Maintenance Technician Overtime,Expense
+1471,Less: Bonuses and Commissions Other Overtime,Expense
+1472,Total TOTAL PAYROLL - OVERTIME,Expense
+1473,Header PAYROLL - BONUS,Expense
+1474,Less: Payroll Taxes & Benefits Administrative - Monthly,Expense
+1475,Less: Bonuses and Commissions Administrative - Commissions,Expense
+1476,Less: Payroll Taxes & Benefits Administrative - Quarterly,Expense
+1477,Less: Bonuses and Commissions Leasing - Commissions,Expense
+1478,Less: Bonuses and Commissions Leasing - Other,Expense
+1479,Less: Maintenance Salary Maintenance - Monthly,Expense
+1480,Less: Bonuses and Commissions Maintenance - Commissions,Expense
+1481,Less: Bonuses and Commissions Bonus Other,Expense
+1482,Total TOTAL PAYROLL - BONUS,Expense
+1483,Header CHECK PROCESSING FEES,Expense
+1484,Less: Other Administrative - Check Processing Fees,Expense
+1485,Less: Other Other - Check Processing Fees,Expense
+1486,Total TOTAL CHECK PROCESSING FEES,Expense
+1487,Header PAYROLL TAXES,Expense
+1488,Less: Payroll Taxes & Benefits Administrative - Payroll Taxes,Expense
+1489,Less: Payroll Taxes & Benefits Leasing - Payroll Taxes,Expense
+1490,Less: Payroll Taxes & Benefits Maintenance - Payroll Taxes,Expense
+1491,Less: Payroll Taxes & Benefits Other - Payroll Taxes,Expense
+1492,Total TOTAL PAYROLL TAXES,Expense
+1493,Header INSURANCE/WORKER'S COMP,Expense
+1494,Less: Payroll Taxes & Benefits Administrative - Ins,Expense
+1495,Less: Insurance Leasing - Ins,Expense
+1496,Less: Insurance Other - Ins,Expense
+1497,Total TOTAL INSURANCE/WORKER'S COMP,Expense
+1498,Header 401 CONTRIBUTION,Expense
+1499,Less: Office Expenses Administrative - 401,Expense
+1500,Less: Repair Costs Maintenance - 401,Expense
+1501,Not Classified Other - 401,Expense
+1502,Total 401 CONTRIBUTION,Expense
+1503,Header TEMP LABOR,Expense
+1504,Less: Other Contract Services Administrative - Temp,Expense
+1505,Less: Other Contract Services Leasing - Temp,Expense
+1506,Less: Contract Maintenance Maintenance - Temp,Expense
+1507,Less: Other Contract Services Other - Temp,Expense
+1508,Total TOTAL TEMP LABOR,Expense
+1509,Header PAYROLL OTHER,Expense
+1510,Less: Other Salaries Administrative - New Hire,Expense
+1511,Less: Other Salaries Other - New Hire,Expense
+1512,Total TOTAL PAYROLL OTHER,Expense
+1513,Total TOTAL PAYROLL,Expense
+1514,Header GENERAL AND ADMINISTRATIVE,Expense
+1515,Less: Office Expenses 1099 Admin,Expense
+1516,Less: Office Expenses Telephone,Expense
+1517,Less: Office Expenses Cell Phone,Expense
+1518,Less: Office Expenses Answering Service,Expense
+1519,Less: Cable Internet Service,Expense
+1520,Less: Cable Common Area TV / Cable,Expense
+1521,Less: Office Expenses Office Supplies,Expense
+1522,Less: Office Expenses Office Equipment Supplies,Expense
+1523,Less: Office Expenses Package Lockers/Delivery Service,Expense
+1524,Less: Office Expenses Postage,Expense
+1525,Less: Office Expenses Express Mail,Expense
+1526,Less: Office Expenses Printing,Expense
+1527,Less: Office Expenses Copier Expense,Expense
+1528,Less: Office Expenses Forms,Expense
+1529,Less: License and Permits Licenses,Expense
+1530,Less: Office Expenses Kingsley/Ellis Survey,Expense
+1531,Less: Dues and Subscriptions Dues & Subscriptions,Expense
+1532,Less: Other Contract Services Courtesy Patrol,Expense
+1533,Less: Training Training & Education,Expense
+1534,Less: Training Training Travel,Expense
+1535,Less: Office Expenses Recruitment Advertising,Expense
+1536,Less: Office Expenses Employee Recognition,Expense
+1537,Less: Legal Fees Eviction/Legal Fees,Expense
+1538,Less: Dues and Subscriptions Credit Check,Expense
+1539,Less: Office Expenses Shopper Reports,Expense
+1540,Less: Office Expenses Bank Charges/Credit Card Fees,Expense
+1541,Less: Office Expenses Check Scanner,Expense
+1542,Less: Meals and Entertainment Employee Meetings,Expense
+1543,Less: Other Salaries Corporate Events,Expense
+1544,Less: Meals and Entertainment Travel & Entertainment,Expense
+1545,Less: Meals and Entertainment Meals - Travel,Expense
+1546,Less: Meals and Entertainment Meals - Non Travel,Expense
+1547,Less: Technology Allocation Computer Expense,Expense
+1548,Less: Technology Allocation Computer Software,Expense
+1549,Less: Technology Allocation Software Maintenance Agreement,Expense
+1550,Less: Technology Allocation Invoice Management / Scanning Software,Expense
+1551,Less: Technology Allocation Revenue Management Software,Expense
+1552,Less: Technology Allocation Computer Software Other,Expense
+1553,Less: Technology Allocation Computer-R&M,Expense
+1554,Less: License and Permits Gov Licenses Fees/Permits,Expense
+1555,Less: Other Contract Services Inspection Fees,Expense
+1556,Total TOTAL GENERAL AND ADMINISTRATIVE,Expense
+1557,,Expense
+1558,,Expense
+1559,,Expense
+1560,,Expense
+1561,,Expense
+1562,,Expense
+1563,,Expense
+1564,,Expense
+1565,,Expense
+1566,,Expense
+1567,,Expense
+1568,,Expense
+1569,,Expense
+1570,,Expense
+1571,,Expense
+1572,,Expense
+1573,,Expense
+1574,,Expense
+1575,,Expense
+1576,,Expense
+1577,,Expense
+1578,,Expense
+1579,,Expense
+1580,,Expense
+1581,,Expense
+1582,,Expense
+1583,,Expense
+1584,,Expense
+1585,,Expense
+1586,,Expense
+1587,,Expense
+1588,,Expense
+1589,,Expense
+1590,,Expense
+1591,,Expense
+1592,,Expense
+1593,,Expense
+1594,,Expense
+1595,,Expense
+1596,,Expense
+1597,,Expense
+1598,,Expense
+1599,,Expense
+1600,,Expense
+1601,,Expense
+1602,,Expense
+1603,,Expense
+1604,,Expense
+1605,,Expense
+1606,,Expense
+1607,,Expense
+1608,,Expense
+1609,,Expense
+1610,,Expense
+1611,,Expense
+1612,,Expense
+1613,,Expense
+1614,,Expense
+1615,,Expense
+1616,,Expense
+1617,,Expense
+1618,,Expense
+1619,,Expense
+1620,,Expense
+1621,,Expense
+1622,,Expense
+1623,,Expense
+1624,,Expense
+1625,,Expense
+1626,,Expense
+1627,,Expense
+1628,,Expense
+1629,,Expense
+1630,,Expense
+1631,,Expense
+1632,,Expense
+1633,,Expense
+1634,,Expense
+1635,,Expense
+1636,,Expense
+1637,,Expense
+1638,,Expense
+1639,,Expense
+1640,,Expense
+1641,,Expense
+1642,,Expense
+1643,,Expense
+1644,,Expense
+1645,,Expense
+1646,,Expense
+1647,,Expense
+1648,,Expense
+1649,,Expense
+1650,,Expense
+1651,,Expense
+1652,,Expense
+1653,,Expense
+1654,,Expense
+1655,,Expense
+1656,,Expense
+1657,,Expense
+1658,,Expense
+1659,,Expense
+1660,,Expense
+1661,,Expense
+1662,,Expense
+1663,,Expense
+1664,,Expense
+1665,,Expense
+1666,,Expense
+1667,,Expense
+1668,,Expense
+1669,,Expense
+1670,,Expense
+1671,,Expense
+1672,,Expense
+1673,,Expense
+1674,,Expense
+1675,,Expense
+1676,,Expense
+1677,,Expense
+1678,,Expense
+1679,,Expense
+1680,,Expense
+1681,,Expense
+1682,,Expense
+1683,,Expense
+1684,,Expense
+1685,,Expense
+1686,,Expense
+1687,,Expense
+1688,,Expense
+1689,,Expense
+1690,,Expense
+1691,,Expense
+1692,,Expense
+1693,,Expense
+1694,,Expense
+1695,,Expense
+1696,,Expense
+1697,,Expense
+1698,,Expense
+1699,,Expense
+1700,,Expense
+1701,,Expense
+1702,,Expense
+1703,,Expense
+1704,,Expense
+1705,,Expense
+1706,,Expense
+1707,,Expense
+1708,,Expense
+1709,,Expense
+1710,,Expense
+1711,,Expense
+1712,,Expense
+1713,,Expense
+1714,,Expense
+1715,,Expense
+1716,,Expense
+1717,,Expense
+1718,,Expense
+1719,,Expense
+1720,,Expense
+1721,,Expense
+1722,,Expense
+1723,,Expense
+1724,,Expense
+1725,,Expense
+1726,,Expense
+1727,,Expense
+1728,,Expense
+1729,,Expense
+1730,,Expense
+1731,,Expense
+1732,,Expense
+1733,,Expense
+1734,,Expense
+1735,,Expense
+1736,,Expense
+1737,,Expense
+1738,,Expense
+1739,,Expense
+1740,,Expense
+1741,,Expense
+1742,,Expense
+1743,,Expense
+1744,,Expense
+1745,,Expense
+1746,,Expense
+1747,,Expense
+1748,,Expense
+1749,,Expense
+1750,,Expense
+1751,,Expense
+1752,,Expense
+1753,,Expense
+1754,,Expense
+1755,,Expense
+1756,,Expense
+1757,,Expense
+1758,,Expense
+1759,,Expense
+1760,,Expense
+1761,,Expense
+1762,,Expense
+1763,,Expense
+1764,,Expense
+1765,,Expense
+1766,,Expense
+1767,,Expense
+1768,,Expense
+1769,,Expense
+1770,,Expense
+1771,,Expense
+1772,,Expense
+1773,,Expense
+1774,,Expense
+1775,,Expense
+1776,,Expense
+1777,,Expense
+1778,,Expense
+1779,,Expense
+1780,,Expense
+1781,,Expense
+1782,Header REVENUES,Income
+1783,Header PROPERTY REVENUES,Income
+1784,Header PROPERTY REVENUES COMMERICIAL,Income
+1785,Header PROPERTY REVENUES COMM'L RENTAL INCOME,Income
+1786,Plus: Commercial Income Comm'l Base Rent-Retail/Prof,Income
+1787,Total PROPERTY REVENUES COMM'L RENTAL INCOME,Income
+1788,Header PROPERTY REVENUES RESIDENTIAL,Income
+1789,Header PROPERTY REVENUES RESID'L RENTAL INCOME,Income
+1790,Gross Potential Rent Residential Gross Potential Rent,Income
+1791,Less: Vacancy Residential-Vacancy Loss Contra,Income
+1792,Gain / Loss to Lease Residential-Loss to Lease,Income
+1793,Less: Vacancy Residential-Vacancy Loss Admin,Income
+1794,park Residential-Garage Rent,Income
+1795,Less: Concessions Resid'l-Concessions,Income
+1796,Plus: Prepaid Rent Residl – Rent credits,Income
+1797,Plus: Damages Reimbursement Resid'l-Reimb fr Tenant Damage,Income
+1798,Total PROPERTY REVENUES RESID'L RENTAL INCOME,Income
+1799,Header OTHER PROPERTY REVENUES,Income
+1800,Plus: Move Out Income Replacement keys/locks Income,Income
+1801,Plus: Storage Locker Storage Income,Income
+1802,Plus: Late Charges Late Fee Income,Income
+1803,Plus: Late Charges NSF Fee Income,Income
+1804,Plus: Application Fees Application Fee,Income
+1805,Plus: Pet Pet Fee Income,Income
+1806,Plus: Termination Fees Lease Termination Fee,Income
+1807,Less: Legal Fees Legal & Investigative Fee - 3rd Party,Income
+1808,Plus: Misc. Other Income Amenity Fee,Income
+1809,Plus: Utilities Income: Trash Trash Fee Income,Income
+1810,Plus: Additional Resident Fee Interest Income fr Tenant,Income
+1811,Plus: Misc. Other Income Other Income,Income
+1812,Total OTHER PROPERTY REVENUES,Income
+1813,Header UTILITY INCOME,Income
+1814,Plus: Utilities Income: Water Utility Inc-Water:Consumption,Income
+1815,Total UTILITY INCOME,Income
+1816,Header OTHER INCOME,Income
+1817,Plus: Utilities Income: Cable Cable Fee Income,Income
+1818,Total OTHER INCOME,Income
+1819,Total PROPERTY REVENUES RESIDENTIAL,Income
+1820,Total PROPERTY REVENUES COMMERICIAL,Income
+1821,Total PROPERTY REVENUES,Income
+1822,Total REVENUES,Income
+1823,Header EXPENSES,Expense
+1824,Header OPERATING EXPENSES,Expense
+1825,"Header REPAIRS, MAINTENANCE & SUPPLIES",Expense
+1826,Less: Repair Costs Repairs,Expense
+1827,Less: Repair Costs Maintenance,Expense
+1828,Less: Contract Maintenance Building Service Contracts,Expense
+1829,Less: Trash Removal Regular Garbage Collection,Expense
+1830,Less: Repair Costs Operating Supplies,Expense
+1831,"Total REPAIRS, MAINTENANCE & SUPPLIES",Expense
+1832,Header SECURITY,Expense
+1833,Less: Security SchedSecurity(non-doormn/concierge),Expense
+1834,Total SECURITY,Expense
+1835,Header PAYROLL AND RELATED EXPENSES,Expense
+1836,Less: Contract Maintenance Labor 3rd Party Scheduled,Expense
+1837,Less: Contract Maintenance Labor 3rd Party Excess,Expense
+1838,Less: Bonuses and Commissions Labor Bonus,Expense
+1839,Less: Payroll Taxes & Benefits Benefits,Expense
+1840,Less: Manager Salary Labor Straight - Third Party Managed,Expense
+1841,Total PAYROLL AND RELATED EXPENSES,Expense
+1842,Header UTILITIES,Expense
+1843,Less: Electricity Utility Exp-Electric:Consumption,Expense
+1844,Less: Water Utility Exp-Water: Consumption,Expense
+1845,Less: Gas Utility Exp-Gas:Consumption,Expense
+1846,Less: Cable Utility Exp-Telecom:Consumption,Expense
+1847,Total UTILITIES,Expense
+1848,Header INSURANCE,Expense
+1849,Less: Insurance Insurance Premiums,Expense
+1850,Total INSURANCE,Expense
+1851,Header GROUND RENT EXPENSE,Expense
+1852,Less: Ground Rents Ground Rent Expense,Expense
+1853,Total GROUND RENT EXPENSE,Expense
+1854,Header OTHER OPERATING EXPENSES,Expense
+1855,Less: License and Permits Business Licenses and Fees,Expense
+1856,Total OTHER OPERATING EXPENSES,Expense
+1857,Header HEALTH CLUB EXPENSES,Expense
+1858,Less: Amenities Health Club Expenses,Expense
+1859,Total HEALTH CLUB EXPENSES,Expense
+1860,Header GARAGE EXPENSE,Expense
+1861,Less: Parking Maintenance Garage Expense - Non Managed,Expense
+1862,Total GARAGE EXPENSE,Expense
+1863,Header REAL ESTATE TAXES & PERSONAL PROPERTY TAXES,Expense
+1864,Less: Real Estate Taxes Real Estate Taxes,Expense
+1865,Less: Real Estate Taxes Personal Property Taxes,Expense
+1866,Total REAL ESTATE TAXES & PERSONAL PROPERTY TAXES,Expense
+1867,Header PROPERTY AND OTHER MANAGEMENT FEES,Expense
+1868,Less: Management Fees Property Mgmt Fee-Base-3rd Party,Expense
+1869,Total PROPERTY AND OTHER MANAGEMENT FEES,Expense
+1870,Header GENERAL ADMINISTRATION,Expense
+1871,Less: Accounting and Audit Fees Accounting Fees - 3rd Party,Expense
+1872,Less: Office Expenses Bank Fees & Processing Charges,Expense
+1873,Less: Training Conferences & Seminars,Expense
+1874,Less: Dues and Subscriptions Dues & Subscriptions,Expense
+1875,Less: Office Expenses Office - Messengers & Postage,Expense
+1876,Less: License and Permits Professional Licenses & Fees,Expense
+1877,Less: Technology Allocation Software Licenses & Fees,Expense
+1878,Less: Office Expenses General Administration - Other,Expense
+1879,Total GENERAL ADMINISTRATION,Expense
+1880,Header MARKETING & LEASING EXPENSES,Expense
+1881,Less: Marketing Marketing Promotions,Expense
+1882,Less: Broker Commissions Brokerage Commissions - 3rd Party,Expense
+1883,Less: Miscellaneous Expenses Credit Check Fees,Expense
+1884,Total MARKETING & LEASING EXPENSES,Expense
+1885,Header OTHER EXPENSES,Expense
+1886,Less: Legal Fees Legal & Investigative Fees-3rd Party,Expense
+1887,Less: Miscellaneous Expenses Supplies&Equipmnt-Non-Operating,Expense
+1888,Total OTHER EXPENSES,Expense
+1889,Header BAD DEBT EXPENSE,Expense
+1890,Less: Bad Debt Bad Debt Expense,Expense
+1891,Total BAD DEBT EXPENSE,Expense
+1892,Total OPERATING EXPENSES,Expense
+1893,Total EXPENSES,Expense
+1894,Header INTEREST EXPENSE & FINANCING FEES,Expense
+1895,Less: Interest Mortgage Loan Interest Expense,Expense
+1896,Less: Interest Financing Fees - Misc.,Expense
+1897,Total INTEREST EXPENSE & FINANCING FEES,Expense
+1898,Header DEPRECIATION AND AMORTIZATION EXPENSE,Expense
+1899,Header AMORTIZATION EXPENSE,Expense
+1900,Less: Depreciation Amort-Deferred Mortgage Expense,Expense
+1901,Total AMORTIZATION EXPENSE,Expense
+1902,Total DEPRECIATION AND AMORTIZATION EXPENSE,Expense
+1903,Header REALIZED/UNREALIZED GAINS & LOSSES,Expense
+1904,Not Classified Unreal (Gain)Loss-Derivatives,Expense
+1905,Total REALIZED/UNREALIZED GAINS & LOSSES,Expense
+1906,Plus: Short Term Premiums Corporate Rental Premium,Income
+1907,Plus: Short Term Premiums Corporate Unit Cleaning,Income
+1908,Plus: Laundry and Vending Washer &amp; Dryer Rental,Income
+1909,Plus: Utilities Income: Cable Cable/Internet Income,Income
+1910,Plus: Utilities Income: Cable Telephone Income,Income
+1911,Plus: Misc. Other Income Antenna Income,Income
+1912,Plus: Utilities Income: Pest Pest Control Reimbursement,Income
+1913,Plus: Utilities Income: Trash Trash Door to Door Rebill,Income
+1914,Plus: Storage Package Convenience Fee,Income
+1915,Plus: Misc. Other Income Miscellaneous Income,Income
+1916,Plus: Additional Resident Fee Credit Card Convenience Fee,Income
+1917,Plus: Move Out Income Keys,Income
+1918,Plus: Move Out Income Access Cards/ Remotes,Income
+1919,Plus: Misc. Other Income Property Tax Resident Reimbursement,Income
+1920,Plus: Misc. Other Income Property Tax,Income
+1921,Plus: Misc. Other Income Additional Other Income,Income
+1922,Plus: Damages Reimbursement Damages - Apartment Cleaning,Income
+1923,Plus: Damages Reimbursement Damages - Carpet Clean,Income
+1924,Plus: Move Out Income Damages - Move-out paint,Income
+1925,Plus: Damages Reimbursement Damages - Trash Removal,Income
+1926,Plus: Damages Reimbursement Damages -Carpet Replace,Income
+1927,Plus: Damages Reimbursement Damage Fees-Other,Income
+1928,Plus: Damages Reimbursement Damages,Income
+1929,Plus: Application Fees Application Fee,Income
+1930,Plus: Application Fees Non Refundable Processing Fee,Income
+1931,Plus: Termination Fees Cancelled Application - Forfeit,Income
+1932,Plus: Termination Fees Lease Terminating Fee,Income
+1933,Plus: Termination Fees Insufficient Notice,Income
+1934,Plus: Late Charges Late Charge,Income
+1935,Plus: Late Charges NSF Fees,Income
+1936,Plus: Short Term Premiums Month to Month Fee,Income
+1937,Plus: Pet Pet Rent,Income
+1938,Plus: Pet Non-Refundable Pet Fee,Income
+1939,Plus: Parking Parking Income,Income
+1940,Plus: Parking Garage,Income
+1941,Plus: Parking Carport,Income
+1942,Plus: Storage Storage,Income
+1943,Plus: Late Charges Legal,Income
+1944,Plus: Community Fees Amenity Space Rental,Income
+1945,Plus: Termination Fees Transfer Fee,Income
+1946,Plus: Laundry and Vending Vending Revenue,Income
+1947,Plus: Laundry and Vending Laundry Income,Income
+1948,Plus: Renter's Insurance Renters Insurance Income,Income
+1949,Total TOTAL OTHER INCOME-RESIDENTIAL,Income
+1950,Not Classified Acquisition Fees,Income
+1951,Not Classified Interest Income,Income
+1952,Not Classified Income-Corporate,Income
+1953,Plus: Utilities Income: Electricity Electric Reimbursement,Income
+1954,Plus: Utilities Income: Gas Gas Reimbursement,Income
+1955,Plus: Utilities Income: Water Water/Sewer Reimbursement,Income
+1956,Plus: Utilities Income: Trash Trash Reimbursement,Income
+1957,Plus: Utilities Income: Other Utility Rebill Service Fee Reimbursement,Income
+1958,Plus: Utilities Income: Other Other Utility Reimbursement,Income
+1959,Plus: Utilities Income: Cable Cable/Internet Rebill,Income
+1960,Plus: CAM Charges Common Area Utilities,Income
+1961,Plus: Utilities Income: Other Utility Reimbursement,Income
+1962,Total Total Other Income,Income
+1963,Gross Potential Rent Market Rent,Income
+1964,Gain / Loss to Lease Gain / (Loss) To Lease,Income
+1965,Plus: Misc. Other Income Tenant Based Subsidy,Income
+1966,Gross Potential Rent Potential Rent,Income
+1967,Plus: Commercial Income Commercial Rent,Income
+1968,Less: Vacancy Vacancy Loss,Income
+1969,"Less: Office, Model, Down Units Model/Office",Income
+1970,Less: Down Units Down Units,Income
+1971,Less: Office Expenses Admin-Leasing office,Income
+1972,Less: Employee Units Employee Discount,Income
+1973,Less: Employee Units Preferred Employer Discount,Income
+1974,Less: Concessions Rental Concessions (Up-Front),Income
+1975,Less: Concessions Rental Concessions (Prorated),Income
+1976,Less: Bad Debt Bad Debt Write-off,Income
+1977,Less: Bad Debt Bad Debt Recovery,Income
+1978,Plus: Community Fees HOA Fees,Income
+1979,Total TOTAL OTHER RENTAL INCOME,Income
+1980,Total Total Rental Income - Net of Prepaid Rent,Income
+1981,Total Total Income,Income
+1982,Less: Other Salaries Office Salaries,Expense
+1983,Less: Other Salaries Office Staff Overtime,Expense
+1984,Less: Other Contract Services Temporary Help - Office,Expense
+1985,Less: Bonuses and Commissions Bonuses - Management,Expense
+1986,Less: Maintenance Salary Maintenance Salaries,Expense
+1987,Less: Maintenance Salary Maintenance Overtime,Expense
+1988,Less: Contract Maintenance Temporary Help - Maintenance,Expense
+1989,Less: Bonuses and Commissions Bonuses - Maintenance,Expense
+1990,Total Salaries & Wages,Expense
+1991,Less: Payroll Taxes & Benefits Payroll Taxes,Expense
+1992,Less: Payroll Taxes & Benefits Payroll Fees,Expense
+1993,Less: Payroll Taxes & Benefits Health Insurance,Expense
+1994,Less: Payroll Taxes & Benefits Workers Compensation,Expense
+1995,Less: Payroll Taxes & Benefits Employee 401k Program,Expense
+1996,Less: Office Expenses Uniforms,Expense
+1997,Less: Marketing Employee Recruitment Ads,Expense
+1998,Less: Training Employee Training/Seminars,Expense
+1999,Less: Training Employee Shopping Reports,Expense
+2000,Less: Training Employee Screening,Expense
+2001,Less: Payroll Taxes & Benefits Benefits-Auto Allowance,Expense
+2002,Less: Other Salaries Personnel-Hiring Costs,Expense
+2003,Total Taxes & Benefits,Expense
+2004,Total TOTAL PAYROLL & BENEFITS,Expense
+2005,Less: Electricity Electricity,Expense
+2006,Less: Electricity Electricity - Vacancy,Expense
+2007,Less: Gas Gas,Expense
+2008,Less: Gas Gas - Vacancy,Expense
+2009,Less: Water Water,Expense
+2010,Less: Sewer Sewer,Expense
+2011,Less: Sewer Storm Drain Fees,Expense
+2012,Less: Miscellaneous Expenses Utility Billing Costs,Expense
+2013,Less: Trash Removal Trash,Expense
+2014,Total Utilities,Expense
+2015,Less: Office Expenses Credit Check Fees,Expense
+2016,Less: Office Expenses Bank Fees/Charges,Expense
+2017,Less: Legal Fees Legal / Eviction,Expense
+2018,Less: Insurance Force Placed Renters Insurance,Expense
+2019,"Less: Office, Model, Down Units Model Expense",Expense
+2020,Less: Legal Fees Professional Fees,Expense
+2021,Less: Office Expenses Copier Lease/Maintenance,Expense
+2022,Less: Office Expenses Telephone Service,Expense
+2023,Less: Cable Internet Service,Expense
+2024,Less: Cable Cable,Expense
+2025,Less: Office Expenses Answering Service,Expense
+2026,Less: Office Expenses Cell Phones,Expense
+2027,Less: Office Expenses Telephone/Data-Repairs,Expense
+2028,Less: Security Alarm Contract,Expense
+2029,Less: Office Expenses Forms / Printing,Expense
+2030,Less: Office Expenses Document Shredding,Expense
+2031,Less: Office Expenses Office Supplies,Expense
+2032,Less: Office Expenses Postage/Shipping,Expense
+2033,Less: Legal Fees Legal / Other,Expense
+2034,Less: Meals and Entertainment Meals & Entertainment,Expense
+2035,Less: Meals and Entertainment Travel -Air/Hotel/Auto Rental,Expense
+2036,Less: Parking Maintenance Parking Expense,Expense
+2037,Less: Office Expenses Employee Relations,Expense
+2038,Less: Office Expenses Company Functions,Expense
+2039,Less: Meals and Entertainment Mileage,Expense
+2040,Less: Office Expenses Office Equipment/Repairs,Expense
+2041,Less: Technology Allocation IT / Computer Hardware,Expense
+2042,Less: Technology Allocation Computer Software,Expense
+2043,Less: Technology Allocation Computer Supplies & Repairs,Expense
+2044,Less: Technology Allocation Property Management Software,Expense
+2045,Less: Technology Allocation Revenue Management Software,Expense
+2046,Less: Technology Allocation Software Other,Expense
+2047,Less: License and Permits Licenses/Permits,Expense
+2048,Less: Other Contract Services Property Inspections,Expense
+2049,Less: Dues and Subscriptions Association Fees,Expense
+2050,Less: Cleaning Fees Laundry/Appliance Rent,Expense
+2051,Less: Office Expenses Business Center Expense,Expense
+2052,Less: Office Expenses Office Refreshments,Expense
+2053,Less: Marketing Resident Relations,Expense
+2054,Less: Technology Allocation Software Setup Fees,Expense
+2055,Less: Office Expenses Printer/Copier Leases,Expense
+2056,Less: Cable Internet,Expense
+2057,Less: Office Expenses Office Supplies,Expense
+2058,Total General & Administrative,Expense
+2059,Less: Advertising ILS Advertising,Expense
+2060,Less: SEO Paid Search Advertising,Expense
+2061,Less: Technology Allocation Reputation and Social Management,Expense
+2062,Less: Marketing Events and PR,Expense
+2063,Less: Advertising Other Advertising,Expense
+2064,Less: Website Community Website,Expense
+2065,Less: Marketing Promotional Signage,Expense
+2066,Less: Marketing Promo Items,Expense
+2067,Less: Marketing Marketing Software,Expense
+2068,Less: Advertising Print Advertising,Expense
+2069,Less: Broker Commissions Broker/Locator,Expense
+2070,Less: Marketing Promotions,Expense
+2071,Less: Marketing Resident Referrals,Expense
+2072,Less: Marketing Marketing-Digital,Expense
+2073,Less: Marketing Marketing-Branding,Expense
+2074,Less: Marketing Marketing,Expense
+2075,Less: Management Fees Management Fees,Expense
+2076,Total Total Management Fees,Expense
+2077,Less: Landscaping Landscaping Monthly Service,Expense
+2078,Less: Landscaping Seasonal Flowers,Expense
+2079,Less: Snow Removal Snow Removal,Expense
+2080,Less: Amenities Pool Contract Service,Expense
+2081,Less: Pest Control Pest Control Contract,Expense
+2082,Less: Other Contract Services Package Services,Expense
+2083,Less: Trash Removal Door to Door Trash Service,Expense
+2084,Less: Cleaning Fees Common Area Cleaning,Expense
+2085,Less: Security Fire Monitoring,Expense
+2086,Less: Elevator Maintenance Elevator Contract,Expense
+2087,Less: Security Courtesy Patrol,Expense
+2088,Less: Other Contract Services Fitness Equipment Contract,Expense
+2089,Total Contract Services,Expense
+2090,Less: Landscaping Landscaping Supplies & Repairs,Expense
+2091,Less: Landscaping Tree Trimming/Removal Expense,Expense
+2092,Less: Amenities Pool Supplies & Repairs,Expense
+2093,Less: Elevator Maintenance Elevator Repairs,Expense
+2094,Less: Interior Decorating Interior Repairs,Expense
+2095,Less: Repair Costs Fireplace Repair,Expense
+2096,Less: Repair Costs Appliance Repairs,Expense
+2097,Less: Repair Costs Appliance Parts,Expense
+2098,Less: Repair Costs Preventative Maintenance,Expense
+2099,Less: HVAC Maintenance HVAC Services,Expense
+2100,Less: HVAC Maintenance HVAC Supplies,Expense
+2101,Less: Plumbing Plumbing Services,Expense
+2102,Less: Plumbing Plumbing Supplies,Expense
+2103,Less: HVAC Maintenance Boiler Repairs,Expense
+2104,Less: Repair Costs Electrical Supplies & Repairs,Expense
+2105,Less: Exterior Decorating Exterior Supplies & Repairs,Expense
+2106,Less: Security Fire Safety & Inspections,Expense
+2107,Less: Exterior Decorating Painting Supplies,Expense
+2108,Less: Cleaning Fees Cleaning Supplies,Expense
+2109,Less: Security Lock & Keys,Expense
+2110,Less: Capital Improvements Remotes,Expense
+2111,Less: Security Gate Repair,Expense
+2112,Less: Cleaning Fees Occupied Carpet-Cleans & Repairs,Expense
+2113,Less: Capital Improvements Extractions,Expense
+2114,Less: Capital Improvements Windows Screens,Expense
+2115,Less: Capital Improvements Blinds,Expense
+2116,Less: Repair Costs Tools / Equipment,Expense
+2117,Less: Repair Costs Common Area Supplies & Repairs,Expense
+2118,Less: Repair Costs Gutter Cleaning Expenses,Expense
+2119,Less: Repair Costs Sidewalk Repairs/Pavement Repairs,Expense
+2120,Less: Cleaning Fees Dog Run-Maintenance & Cleaning,Expense
+2121,Less: Cleaning Fees Window Cleaning,Expense
+2122,Less: Repair Costs Miscellaneous R&M,Expense
+2123,Less: Other Contract Services Annual Termite Inspection,Expense
+2124,Less: Other Contract Services Annual Boiler Inspections,Expense
+2125,Less: Other Contract Services Backflow Inspections,Expense
+2126,Total Repairs and Maintenance,Expense
+2127,Less: Repair Costs Carpet Repairs,Expense
+2128,Less: Capital Improvements Vinyl Repair,Expense
+2129,Less: Cleaning Fees Carpet Cleaning,Expense
+2130,Less: Cleaning Fees Apartment Cleaning,Expense
+2131,Less: Repair Costs Painting & Supplies,Expense
+2132,Less: Unit Turnover Painting-Contract,Expense
+2133,Less: Capital Improvements Window Coverings,Expense
+2134,Less: Repair Costs Appliance Repair,Expense
+2135,Less: Capital Improvements Lighting/Ceiling Fans/Fixtures,Expense
+2136,Less: Plumbing Plumbing,Expense
+2137,Less: Capital Improvements Tile Repairs,Expense
+2138,Less: Unit Turnover Turnover Supplies,Expense
+2139,Less: Unit Turnover Turnover Costs,Expense
+2140,Total Controllable Operating Expenses,Expense
+2141,Less: Real Estate Taxes Real Estate Taxes,Expense
+2142,"Less: Other Taxes, Assessments and Fees Personal Property Taxes",Expense
+2143,"Less: Other Taxes, Assessments and Fees Sales & Use Tax",Expense
+2144,"Less: Other Taxes, Assessments and Fees Income Tax",Expense
+2145,"Less: Other Taxes, Assessments and Fees Taxes - Other",Expense
+2146,Less: Insurance Insurance - Property & Casualty,Expense
+2147,Less: Insurance Insurance - Umbrella,Expense
+2148,Less: Insurance Insurance - Environmental,Expense
+2149,Less: Insurance Insurance - Other,Expense
+2150,Less: Insurance Insurance Claim Expense,Expense
+2151,Less: Insurance Insurance Claim Proceeds,Expense
+2152,Less: Insurance Insurance-Liability,Expense
+2153,Total Taxes and Insurance,Expense
+2154,Not Classified Acquisition Pursuit Costs,Expense
+2155,Not Classified Acquisition Expenses,Expense
+2156,Less: Legal Fees Professional Fees,Expense
+2157,Less: Legal Fees Professional Fees-Legal,Expense
+2158,Less: Training Continuing Education,Expense
+2159,Not Classified Corporate Expenses,Expense
+2160,Total Non-Controllable Operating Expenses,Expense
+2161,Total Total Operating Expenses,Expense
+2162,Total Net Operating Income,Expense
+2163,Less: Principal Mortgage Interest 1st Loan,Expense
+2164,Less: Interest Mortgage Interest 2nd Loan,Expense
+2165,Less: Interest Interest Other,Expense
+2166,Less: Interest Interest Expense,Expense
+2167,Less: Interest Loan Fees,Expense
+2168,Total TOTAL DEBT SERVICE,Expense
+2169,Less: Amenities Pool/Spa/Fountain/Lake,Expense
+2170,Less: Amenities Fitness Center,Expense
+2171,Less: Office Expenses Office Equipment,Expense
+2172,Less: Parking Maintenance Garages/Carports,Expense
+2173,Less: Landscaping Plant Material/Trees,Expense
+2174,Less: Landscaping Irrigation,Expense
+2175,Less: Repair Costs Maintenance Equipment,Expense
+2176,Less: Repair Costs Other Fees,Expense
+2177,Total MAJOR REPAIRS-COMMON AREA,Expense
+2178,Less: Interior Decorating Interior - General,Expense
+2179,Less: Capital Improvements ADA Compliance,Expense
+2180,Less: Capital Improvements Drywall & Paint,Expense
+2181,Less: Capital Improvements Carpet,Expense
+2182,Less: Capital Improvements Baseboards,Expense
+2183,Less: Capital Improvements Vinyl Flooring,Expense
+2184,Less: Capital Improvements Tile Flooring,Expense
+2185,Less: Capital Improvements Floor Repairs,Expense
+2186,Less: Capital Improvements Appliances - Refrigerators,Expense
+2187,Less: Capital Improvements Appliances - Stoves,Expense
+2188,Less: Capital Improvements Appliances - Range Hood,Expense
+2189,Less: Capital Improvements Appliances - Dishwashers,Expense
+2190,Less: Capital Improvements Appliances - Microwaves,Expense
+2191,Less: Capital Improvements Appliances - Garbage Disposals,Expense
+2192,Less: Capital Improvements Appliances - Washers & Dryers,Expense
+2193,Less: Capital Improvements Appliances - Other,Expense
+2194,Less: HVAC Maintenance Appliances - HVAC,Expense
+2195,Less: Capital Improvements Water Heater,Expense
+2196,Less: Capital Improvements Cabinets,Expense
+2197,Less: Capital Improvements Countertops,Expense
+2198,Less: Capital Improvements Tub/Shower surround common area,Expense
+2199,Less: Capital Improvements Doors,Expense
+2200,Less: Capital Improvements Windows,Expense
+2201,Less: Capital Improvements Screens,Expense
+2202,Less: Capital Improvements Blinds,Expense
+2203,Less: Capital Improvements Electrical,Expense
+2204,Less: Capital Improvements Lighting,Expense
+2205,Less: Capital Improvements Ceiling Fans,Expense
+2206,Less: Plumbing Plumbing,Expense
+2207,Less: Capital Improvements Harware common area,Expense
+2208,Less: Capital Improvements Mirrors,Expense
+2209,Less: Capital Improvements Fireplaces,Expense
+2210,Total MAJOR REPAIRS-UNIT,Expense
+2211,Less: Unit Turnover UNIT RENO - Staff Labor/Staff Burden,Expense
+2212,Less: Unit Turnover UNIT RENO - Vinyl,Expense
+2213,Total UNIT RENOVATIONS,Expense
+2214,Less: Accounting and Audit Fees Audit & Tax Return Fee,Expense
+2215,Less: Accounting and Audit Fees Accounting & Other Services,Expense
+2216,Not Classified LLC-Related Expenses,Expense
+2217,Not Classified Asset Management Fee,Expense
+2218,Not Classified Investor Relations Expense,Expense
+2219,Not Classified Miscellaneous Corporate Expense,Expense
+2220,Not Classified Corporate Donations,Expense
+2221,Not Classified Entity Related Fees,Expense
+2222,Not Classified Annual Fees,Expense
+2223,Not Classified Banking Fees,Expense
+2224,Not Classified Acquisition Fee,Expense
+2225,Not Classified Property Expenses-Uncollectable,Expense
+2226,Total TOTAL PARTNERSHIP EXPENSES,Expense
+2227,Less: Depreciation Depreciation Expense,Expense
+2228,Less: Depreciation Amortization Expense,Expense
+2229,Total TOTAL DEPRECIATION & AMORTIZATION,Expense
+2230,Total TOTAL NON-OPERATING EXPENSES,Expense
+2231,Total NET INCOME,Expense
+2232,Total TOTAL RENTAL EXPENSES,Expense
+2233,Total NET CASH FLOW LESS DEPRECIATION AND AMORTIZATION,Expense
