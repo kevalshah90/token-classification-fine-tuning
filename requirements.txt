@@ -3,3 +3,7 @@ transformers
 spacy
 spacy-annotator
 datasets
+peft
+python-dotenv
+bitsandbytes
+accelerate
