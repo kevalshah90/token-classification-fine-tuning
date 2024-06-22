@@ -1,224 +1,751 @@
 texts,label
-Less: Employee Units Employee Unit,1
-Plus: Parking Carport Garage Fee,1
-Plus: Commercial Income Retail Income,1
-Plus: Commercial Income Retail Concession,1
-Plus: Parking Retail Parking Income,1
-Header OPERATING EXPENSES,0
-Less: Maintenance Salary Senior Maintenance Supervisor Payroll,0
-Less: Maintenance Salary Assistant Maintenance Supervisor Payroll,0
-Less: Maintenance Salary Grounds Payroll,0
-Less: Bonuses and Commissions Seasons - Incentive Pay,0
-Less: Bonuses and Commissions Maintenance - Commissions,0
-Less: Payroll Taxes & Benefits Leasing - Payroll Taxes,0
-Less: Other Salaries Other - New Hire,0
-Less: Office Expenses Express Mail,0
-Less: Office Expenses Employee Recognition,0
-Less: Legal Fees Eviction/Legal Fees,0
-Less: Office Expenses Bank Charges/Credit Card Fees,0
-Less: Office Expenses Check Scanner,0
-Less: Meals and Entertainment Employee Meetings,0
-Header MARKETING,0
-Less: Other Contract Services Marketing Consultant/Photographer,0
-Less: Electricity Electricity - Resident Submeter,0
-Less: Parking Maintenance Parking & Garage Cleaning,0
-Less: Repair Costs Water Damage - Flooring,0
-Less: Contract Maintenance Carpentry Contract,0
-Less: Repair Costs Screen repairs,0
-Less: Unit Turnover Paint Supplies,0
-Less: Unit Turnover Carpet Repair,0
-Less: Management Fees Property Management Fee,0
-Less: Insurance Excess Liability Insurance,0
-Total TOTAL INSURANCE,0
-Total TOTAL PARTNERSHIP,0
-Total Net Rental Income,1
-Plus: Parking Parking Rent,1
-Plus: Utilities Income: Cable Internet/Cable Income - Revenue Share,1
-Plus: Short Term Premiums MTM Rent,1
-Plus: Misc. Other Income Miscellaneous Non-Tenant Income,1
-Plus: Utilities Income: Other Resident Flat Fee Utility Charge,1
-Plus: Admin Fees Administrative Leasing Fee,1
-Plus: Termination Fees Lease Termination Fee,1
-Header Utilities,0
-Less: Water Water & Sewer,0
-Less: Office Expenses Telephone,0
-Total Utilities,0
-Less: Payroll Taxes & Benefits Payroll- Employer Taxes- Office,0
-Less: Amenities Pool Services,0
-Less: Security Security Service,0
-Less: Contract Maintenance Plants and Plant Maintenance,0
-Less: Repair Costs Glass & Window Replacement,0
-Less: Repair Costs Equipment and Tools,0
-Less: Parking Maintenance Parking Lot/Asphalt,0
-Less: Security Fire/Life Safety R&M,0
-Less: Repair Costs Electrical Supplies,0
-Less: Plumbing Plumbing Repairs,0
-Less: Unit Turnover Turnover- Tub/Counter Refinish/Repair,0
-Less: Unit Turnover Turnover- Drapery/Blinds Cleaning,0
-Total Turnover,0
-Less: Marketing Collateral/SWAG,0
-Less: Marketing Signage & Balloons,0
-Less: Broker Commissions Locator/Broker Fees,0
-Less: Marketing Mkt Studies/Shopper Rpts,0
-Total Marketing,0
-Less: Meals and Entertainment Meals and Meetings,0
-Less: Insurance Building Protection Policy- Expense,0
-Less: Insurance Business Auto,0
-Less: Insurance Professional Liability Insurance,0
-Header Capital Expenditures,0
-Less: HVAC Maintenance CAP- HVAC/Boiler/AC Replacement & Repair,0
-Less: Parking Maintenance CAP- Carport/Garage,0
-Less: Security CAP- Fences/Gates/Porch/Railings,0
-Less: Capital Improvements CAP- Paint,0
-Less: Repair Costs JOB- Hardware,0
-Less: Repair Costs JOB - Environmental/Remediation,0
-Less: Repair Costs JOB - Refrigerator,0
-Less: Repair Costs JOB - Ceiling Fans,0
-Less: Marketing JOB - Signature,0
-Less: Repair Costs JOB - Materials,0
-Less: Repair Costs JOB - Lighting Common Area,0
-Less: HVAC Maintenance JOB - Water Heater,0
-Less: Landscaping JOB - Mulch,0
-Less: Repair Costs JOB - Patio/Balcony,0
-Less: Amenities JOB - Business Center Computers,0
-Less: Amenities JOB - Water Upgrade,0
-Less: Depreciation Depreciation Expense,0
-Not Classified Amortization Expense,0
-Less: Vacancy Less: Vacancy,1
-Plus: CAM Charges Passthru Amenity Fee,1
-Plus: Move Out Income Lockout / Keyfob,1
-Less: Pest Control Pest Control,0
-Less: Contract Maintenance Paint Supplies,0
-Less: Exterior Decorating Roof Repairs,0
-Less: Trash Removal Trash Disposal,0
-Less: Trash Removal Valet Trash Service,0
-Less: Unit Turnover ATC-Flooring Replacements,0
-Less: Unit Turnover ATC-Painting Supplies,0
-Less: Marketing Leasing Signage,0
-Less: Other Contract Services Temporary Clerical Help,0
-Less: Technology Allocation Computer Hardware,0
-Less: Bonuses and Commissions Management Bonuses,0
-Less: Maintenance Salary Maintenance Overtime,0
-Less: Payroll Taxes & Benefits Employer 401K Contrib.,0
-Less: Manager Salary Church & State Payroll,0
-Less: Manager Salary Bachelor Payroll,0
-Less: Manager Salary Windale Payroll,0
-Less: Real Estate Taxes Property Tax,0
-Less: Unit Turnover RR - Appliance - Dishwasher,0
-Less: Unit Turnover RR - Carpet,0
-Less: HVAC Maintenance RR - HVAC Compressor,0
-Less: Unit Turnover RR - Microwaves,0
-Not Classified Forgiveness of Debt,0
-Less: Bad Debt Bad Debt Expense,0
-Total NET CASH FLOW,0
-Header INCOME,1
-Less: Employee Units Employee Concessions,1
-Plus: Utilities Income: Other Reimbursed Utility Cap,1
-Plus: Additional Resident Fee Owner Income Lease Changes,1
-Plus: Move Out Income Lock Out/Key Fee,1
-Total Total Agent Fee,1
+Less: Marketing Permanent Signage,0
+Less: Interior Decorating Doors - Interior,0
+Plus: Utilities Income: Other Reimbursed Utilities - Storm Drainage,1
 Less: Unit Turnover Reimbursed Turnover Repairs,1
-Header OPERATING EXPENSES,0
-Less: Office Expenses Postage,0
-Less: Office Expenses General & Administrative Costs,0
-Less: Office Expenses Utility Billing Services,0
-Less: Maintenance Salary Maintenance Supervisor,0
-Less: Trash Removal Trash/Recycling Utilities,0
-Not Classified Ownership Expense,0
-Less: Concessions Renovation Lease-Up Expenses: Concessions,0
-Less: Security Capitalized Fire/Life Safety,0
-Less: Capital Improvements Capitalized Signage,0
-Less: Unit Turnover Capitalized Turnover Painting,0
-Header GROSS POTENTIAL INCOME,1
-Not Classified Employee Unit,1
-Less: Concessions Concessions - Other,1
-Plus: Short Term Premiums Rent Adjustments - Other Month,1
-Not Classified Reimbursed Gas,1
-Plus: Utilities Income: Water Reimbursed Water,1
-Plus: Utilities Income: Other Reimbursed Service Fees,1
-Plus: Utilities Income: Other Reimbursed Utility Processing Fees,1
-Plus: Parking Carport Garage Fee,1
-Plus: Misc. Other Income Adminstrative Fees,1
-Plus: Misc. Other Income Insurance Recovery - Forced Placed,1
-Plus: Misc. Other Income Retail Income,1
-Less: Concessions Retail Concession,1
-Less: Manager Salary Property Manager Payroll,0
-Less: Leasing Agent Salary Leasing Agent Payroll,0
-Less: Payroll Taxes & Benefits Seasons - Payroll Taxes & Benefits,0
-Less: Insurance Leasing - Ins,0
-Less: Other Contract Services Administrative - Temp,0
-Less: Other Salaries Administrative - New Hire,0
-Less: Office Expenses Copier Expense,0
-Less: Legal Fees Eviction/Legal Fees,0
-Less: Office Expenses Shopper Reports,0
-,0
-,0
-,0
-,0
-,0
-,0
-,0
-,0
-,0
-,0
-,0
-,0
-,0
-,0
-,0
-,0
-,0
-,0
-,0
-,0
-Header PROPERTY REVENUES COMMERICIAL,1
-Less: Legal Fees Legal & Investigative Fee - 3rd Party,1
+Plus: Termination Fees Lease Cancellation Fees,1
+Less: Water Water - Irrigation,0
+Plus: Misc. Other Income Amenity Fee - Upfront,1
+Less: Concessions Concessions - Recurring,1
+Plus: Termination Fees Lease Termination Fee,1
+Header SECURITY,0
+Header Rent Potential,1
+Total TOTAL BAD DEBT,1
+Plus: Late Charges Owner Income Late Fees,1
 Plus: Misc. Other Income Amenity Fee,1
-Total OTHER INCOME,1
-"Header REPAIRS, MAINTENANCE & SUPPLIES",0
-Less: Repair Costs Maintenance,0
-Less: Cable Utility Exp-Telecom:Consumption,0
-Total GROUND RENT EXPENSE,0
-Less: License and Permits Business Licenses and Fees,0
-Header HEALTH CLUB EXPENSES,0
-Header GARAGE EXPENSE,0
-Total GARAGE EXPENSE,0
-Less: Broker Commissions Brokerage Commissions - 3rd Party,0
+Less: Marketing Signs/Directories,0
+Plus: Pet Pet Rent,1
+Header REAL ESTATE TAXES & PERSONAL PROPERTY TAXES,0
+Plus: Utilities Income: Pest Pest Control Fees,1
+Plus: Misc. Other Income Amenity Fee,1
+Plus: Misc. Other Income Property Tax Resident Reimbursement,1
+Less: Repair Costs Window Repair,0
+Plus: Utilities Income: Cable Telephone Income,1
+Plus: Late Charges Legal,1
+Plus: Misc. Other Income Property Tax Resident Reimbursement,1
+Less: Interior Decorating Doors - Exterior,0
+Not Classified Transition Management Past Due Invoices,0
+Total REVENUES,1
+Not Classified Forgiveness of Debt,0
+Less: Capital Improvements CAP- Windows/Glass,0
+Less: Legal Fees Eviction/Legal Fees,0
+Total TOTAL OWNERS EXPENSES,0
 Plus: Laundry and Vending Washer &amp; Dryer Rental,1
-Plus: Misc. Other Income Antenna Income,1
-Plus: Move Out Income Access Cards/ Remotes,1
-Plus: Late Charges NSF Fees,1
+Total Taxes & Benefits,0
+Less: Capital Improvements CAP- Kitchen,0
+Gross Potential Rent Rent Credit - Operations,1
+Plus: Additional Resident Fee Credit Card Convenience Fee,1
+Less: Repair Costs Water Damage - Carpentry,0
+Less: Employee Units Employee Unit,1
+Less: Bad Debt Bad Debt Write-off,1
+Plus: Laundry and Vending Washer &amp; Dryer Rental,1
+Less: Cable Internet Service,0
+Not Classified Investor Relations Expense,0
+Header MISC INCOME,1
+Total OTHER EXPENSES,0
+Gross Potential Rent Rental Income,1
+Less: Payroll Taxes & Benefits Employee 401k Program,0
+Less: Repair Costs Appliance Repair,0
+Less: Payroll Taxes & Benefits Benefits,0
+Plus: Application Fees Deposit Fee,1
+Plus: Additional Resident Fee Amenity Usage/Guest Suite Income,1
+Header NOI Less Non-Recurring Expenses,1
+Plus: Utilities Income: Electricity Reimbursed Electric,1
+Less: Water Water - Resident Submeter,0
+Header PROPERTY REVENUES COMMERICIAL,1
+Less: Marketing Printed Collateral Materials,0
+Less: Other Salaries Payroll Admin Fees,0
+Less: Bonuses and Commissions Labor Bonus,0
+Plus: Utilities Income: Trash Trash Door to Door Rebill,1
+Less: Repair Costs Fence Repair,0
+Plus: Application Fees Application Fee,1
+Less: Exterior Decorating Painting Supplies,0
+Total TOTAL OTHER INCOME,1
+Plus: Misc. Other Income Accelerated Rent,1
+Total Reimbursement Charges,1
+Plus: Misc. Other Income Amenity Fee - Recurring,1
+Header MISC INCOME,1
+Less: Miscellaneous Expenses Supplies&Equipmnt-Non-Operating,0
+Less: Plumbing JOB - Sink,0
+Plus: Utilities Income: Cable Telephone Income,1
+Header GENERAL AND ADMINISTRATIVE,0
+Less: Payroll Taxes & Benefits Other - 401,0
+Less: Repair Costs Water Damage - Carpentry,0
+Less: Technology Allocation Property Management Software,0
+Plus: Misc. Other Income Deposit Non-Refundable,1
+Plus: Move Out Income Lock Out/Key Fee,1
+Less: Gas Gas - Pool & Spa,0
+Less: Legal Fees Professional Fees-Legal,0
+Header MANAGEMENT FEES,0
+Less: Office Expenses Vendor Late Fees,0
+Less: Capital Improvements Lighting,0
+Plus: Misc. Other Income Additional Other Income,1
+Less: Legal Fees Legal fees,0
+Total Income/Revenue Adjustments,1
+Plus: Misc. Other Income Cleaning Fees,1
+Less: Dues and Subscriptions Dues and Subscriptions,0
+Plus: Short Term Premiums Corporate Housing Income,1
+Less: Technology Allocation Computer Expense,0
+Total 401 CONTRIBUTION,0
+Plus: Laundry and Vending Vending Revenue,1
+Plus: Misc. Other Income Short Term Lease Fee,1
+Less: Capital Improvements Key Replacement,1
+Plus: Short Term Premiums Month to Month Fee,1
+Gain / Loss to Lease Loss/Gain to Lease,1
+Plus: Parking Parking Space Fee,1
+Less: Concessions Rental Concessions (Up-Front),1
+Less: Other Salaries Method C. Payroll,0
+Total TOTAL GENERAL AND ADMINISTRATIVE,0
+Less: Repair Costs JOB - Parking Lot Resurfacing/Paving,0
+Less: Unit Turnover Capitalized Turnover Painting,0
+Plus: Misc. Other Income Miscellaneous Income,1
+Total Payroll,0
+Less: Employee Units Employee Rent Discount,1
+Plus: Utilities Income: Water Resident Water Charge,1
+Less: Payroll Taxes & Benefits Leasing - Payroll Taxes,0
+Plus: Application Fees Application Fee,1
+Less: Concessions Concessions - Recurring,1
+Less: Unit Turnover RR - Appliance - Refrigerator,0
+Less: Cleaning Fees Turnover Cleaning,0
+Less: Capital Improvements CAP- Water Heater,0
+Less: Training Training Travel,0
+Less: Capital Improvements Mirrors,0
+Header PROPERTY REVENUES,1
 Plus: Laundry and Vending Laundry Income,1
-Plus: Utilities Income: Gas Gas Reimbursement,1
-Plus: Utilities Income: Other Utility Rebill Service Fee Reimbursement,1
-Total Total Other Income,1
-Total TOTAL OTHER RENTAL INCOME,1
-Less: Other Salaries Office Salaries,0
-Less: Bonuses and Commissions Bonuses - Management,0
-Less: Payroll Taxes & Benefits Payroll Fees,0
-Less: Electricity Electricity,0
-"Less: Office, Model, Down Units Model Expense",0
-Less: Meals and Entertainment Travel -Air/Hotel/Auto Rental,0
-Less: Technology Allocation IT / Computer Hardware,0
-Less: License and Permits Licenses/Permits,0
-Less: Other Contract Services Property Inspections,0
-Total General & Administrative,0
-Less: Advertising Other Advertising,0
-Less: Landscaping Landscaping Monthly Service,0
-Less: Security Fire Monitoring,0
-Less: HVAC Maintenance HVAC Supplies,0
-Less: Other Contract Services Annual Boiler Inspections,0
-Less: Cleaning Fees Carpet Cleaning,0
-Less: Capital Improvements Window Coverings,0
-"Less: Other Taxes, Assessments and Fees Taxes - Other",0
-Less: Insurance Insurance-Liability,0
-Less: Legal Fees Professional Fees,0
-Less: Principal Mortgage Interest 1st Loan,0
-Less: Landscaping Irrigation,0
-Less: Capital Improvements Drywall & Paint,0
-Less: Capital Improvements Vinyl Flooring,0
-Less: Capital Improvements Appliances - Stoves,0
-Less: Capital Improvements Harware common area,0
-Less: Capital Improvements Fireplaces,0
-Total UNIT RENOVATIONS,0
+Less: Repair Costs JOB - Cabinets,0
+Less: Interest Loan Fees,0
+Header Turnover,0
+Less: Real Estate Taxes Personal Property Tax,0
+Header Reimbursement Charges,1
+Plus: Misc. Other Income Transfer Fees,1
+Less: Concessions Resid'l-Concessions,1
+Less: Marketing Lead Tracking Tools,0
+Less: Repair Costs Maintenance Supplies,0
+Total TOTAL REIMBURSEMENT,1
+Plus: Misc. Other Income Misc Income,1
 Not Classified Miscellaneous Corporate Expense,0
+Plus: Additional Resident Fee Deposit Waiver Program - Income,1
+Less: Exterior Decorating Roof Repairs,0
+Total PROPERTY REVENUES COMM'L RENTAL INCOME,1
+Gain / Loss to Lease Gain / (Loss) To Lease,1
+Header OPERATING EXPENSES,0
+Less: License and Permits Gov Licenses Fees/Permits,0
+Plus: Renter's Insurance Insurance Recovery - Pay with Rent,1
+Less: Unit Turnover Capitalized Turnover Painting,0
+Header OTHER INCOME,1
+Less: Office Expenses Office Supplies,0
+Header INCOME,1
+Less: Employee Units Preferred Employer Discount,1
+Plus: Late Charges NSF Fees,1
+Less: Technology Allocation Reputation and Social Management,0
+Total Income/Revenue Adjustments,1
+Less: Unit Turnover RR - Sinks,0
+Plus: Parking Parking Rent,1
+Less: Maintenance Salary Grounds Payroll,0
+Less: Maintenance Salary Maintenance Salaries,0
+Less: Bad Debt Less: Commercial Write-Offs,1
+Less: Security Courtesy Patrol,0
+Plus: Utilities Income: Water Resident Sewer Charge,1
+Header PAYROLL - BONUS,0
+Plus: Utilities Income: Electricity Utility Billback - Vacant Electric,1
+Plus: Utilities Income: Water Reimbursed Water,1
+Total PROPERTY REVENUES RESID'L RENTAL INCOME,1
+Less: Training Employee Shopping Reports,0
+"Less: Office, Model, Down Units Model/Office",1
+Header Non-Rental Income,1
+Less: Insurance Deposit Waiver Program - Expense,0
+Plus: Late Charges Legal Fees,1
+Total TOTAL UTILITY INCOME,1
+Less: Bad Debt Bad Debt Expense,0
+Header AMORTIZATION EXPENSE,0
+Header PROPERTY REVENUES COMM'L RENTAL INCOME,1
+Plus: Misc. Other Income Amenity Fee - Recurring,1
+Plus: Utilities Income: Cable Internet/Cable Income - Revenue Share,1
+Less: Other Salaries Method C. Payroll,0
+Plus: Community Fees HOA Fees,1
+Less: Plumbing Contract Plumbing,0
+"Less: Other Taxes, Assessments and Fees Personal Property Taxes",0
+Plus: Termination Fees Transfer Fees,1
+Plus: Short Term Premiums Corporate Rental Premium,1
+Less: Other Contract Services Leasing - Temp,0
+Gain / Loss to Lease Loss/Gain to Lease,1
+Plus: Move Out Income Lock Out Income,1
+Less: Repair Costs JOB - Tile,0
+Less: Pest Control CAP- Pest,0
+Not Classified Asset Management Fees,0
+Plus: Termination Fees Owner Lease Break Fee,1
+Less: Office Expenses Applications Fees / Credit Check,0
+Less: Office Expenses Postage,0
+Less: Security Locks,0
+Less: SEO Graphic Design,0
+Plus: Damages Reimbursement Deposit Forfeited,1
+"Less: Security Fire Extinguisher, 1st Aid",0
+Less: Office Expenses Office Supplies,0
+Less: Marketing Marketing-Branding,0
+Less: Concessions Concession,1
+Less: Capital Improvements Capitalized Plumbing,0
+Less: Marketing Fitness program,0
+Less: Amenities Swimming Pool,0
+Header Net Operating Income,1
+Plus: Utilities Income: Electricity Reimbursed Gas/Electric Utilities,1
+Less: Plumbing Plumbing Supplies,0
+Plus: Misc. Other Income Amenity Fee,1
+Less: Advertising Banners/Flyers etc,0
+Less: Trash Removal CAP - Hauling/Bulk Item Removal,0
+Less: Technology Allocation Computer Expense,0
+Plus: Additional Resident Fee Credit Card Convenience Fee,1
+Less: Office Expenses Credit Check Fees,0
+Plus: Utilities Income: Cable Tenant Utilities - Cable/Internet/Telephone,1
+Total TOTAL PAYROLL - SALARIES,0
+Header BAD DEBT,1
+Plus: Laundry and Vending Laundry Income,1
+Plus: Application Fees Application Fees,1
+Plus: Utilities Income: Pest Pest Control Fees,1
+Plus: Utilities Income: Other Reimbursed Utility Processing Fees,1
+Plus: Move Out Income Lockout / Keyfob,1
+Less: Landscaping Landscaping and Irrigation Repair,0
+Less: Unit Turnover UNIT RENO - Staff Labor/Staff Burden,0
+Plus: Damages Reimbursement Damages - Apartment Cleaning,1
+Plus: Misc. Other Income Short Term Lease Fee,1
+Less: Dues and Subscriptions Permits/Inspections,0
+Plus: Storage Storage Fees,1
+Header RENT ADJUSTMENTS,1
+Less: Miscellaneous Expenses Miscellaneous Expense - G&A,0
+Plus: Utilities Income: Other Reimbursed Submeter Fees,1
+Gross Potential Rent Rental Income,1
+Less: Gas Gas - Vacant,0
+Gain / Loss to Lease Gain / Loss to Lease,1
+Not Classified Delinquency,1
+Plus: Utilities Income: Other Passthru Utility Package,1
+Less: Concessions Concessions - Upfront,1
+Plus: Parking Retail Parking Income,1
+Less: Insurance Building Protection Policy- Expense,0
+Less: Security Keys,0
+Header MISC INCOME,1
+Less: Manager Salary Labor Straight - Third Party Managed,0
+Less: Employee Units Employee Discount,1
+Plus: Renter's Insurance Resident Liability Premium,1
+Plus: Misc. Other Income Amenity Fee,1
+Not Classified Reimbursed Submeter Fees,1
+Less: Parking Maintenance CAP- Carport/Garage,0
+Plus: Additional Resident Fee Resident Real Estate Tax,1
+Less: Management Fees Property Management Fee,0
+Less: Plumbing JOB - Toilets,0
+Plus: Misc. Other Income Insurance Recovery - Forced Placed,1
+Plus: Misc. Other Income Communication Tower Rent,1
+Gross Potential Rent Rental Income,1
+Less: Legal Fees Legal / Other,0
+Total PAYROLL AND RELATED EXPENSES,0
+Total Total Income,1
+Plus: Pet Pet Fees,1
+Less: Parking Maintenance Parking Expense,0
+Less: Capital Improvements Appliances - Dishwashers,0
+Plus: Storage Storage Fees,1
+Less: Other Contract Services Seasons - Mgt. Leasing & Bookkpng.,0
+Less: Repair Costs JOB - Cameras,0
+Less: Capital Improvements Window Coverings,0
+Less: Other Contract Services Seasons - Mgt. Leasing & Bookkpng.,0
+Less: Unit Turnover RR - Light Fixtures Exterior,0
+Plus: Utilities Income: Electricity Utility Billback - Vacant Electric,1
+Less: Other Contract Services Administrative - Temp,0
+Total UNIT RENOVATIONS,0
+Total NET INCOME,0
+Less: Advertising Pay Per Lease Ads,0
+Less: Capital Improvements Vinyl Flooring,0
+Less: Broker Commissions Locator/Broker Fees,0
+Less: Interest Mortgage Interest,0
+Less: Security Door & Lock Repairs,0
+Not Classified Entity Related Fees,0
+Less: Plumbing JOB - Plumbing Fixtures,0
+Less: Office Expenses Vendor Late Fees,0
+Less: Marketing Temporary Signage,0
+Less: Security Security Fees & Permits,0
+Plus: Utilities Income: Pest Reimbursed Pest Control,1
+Less: Security Fuels,0
+Plus: Parking Parking Income,1
+Less: HVAC Maintenance Boiler Repairs,0
+Plus: Damages Reimbursement Damage Fees,1
+Plus: Utilities Income: Other Reimbursed Utility Processing Fees,1
+Plus: Application Fees Deposit Non-Refundable,1
+Less: Capital Improvements CAP- Environmental,0
+Total OTHER PROPERTY REVENUES,1
+Less: Advertising Banners/Flyers etc,0
+Less: Repair Costs Tools / Equipment,0
+Less: Meals and Entertainment Employee Meetings,0
+Less: Vacancy Vacancy- Down Units,1
+Plus: Utilities Income: Other Reimbursed Utility Processing Fees,1
+Total OTHER INCOME,1
+Less: Security Keys,0
+Plus: Utilities Income: Other Owner Utility Administrative Fee,1
+Less: HVAC Maintenance HVAC Services & Repairs,0
+Less: Meals and Entertainment Meals - Non Travel,0
+Less: Unit Turnover Turnover- Drapery/Blinds Replacements,0
+Less: Technology Allocation Software Setup Fees,0
+Total TOTAL INCOME,1
+Less: Marketing JOB - Marketing,0
+Header OPERATING INCOME,1
+Plus: Utilities Income: Other Tenant Utilities,1
+Less: Legal Fees Legal Fees/Owner Exp,0
+Plus: Renter's Insurance Insurance Recovery - Forced Placed,1
+Total Reimbursement Charges,1
+Less: Training Employee Training/Seminars,0
+Less: Repair Costs Electrical Supplies & Repairs,0
+Less: Maintenance Fees Maint Travel & Mileage,0
+Plus: Move Out Income Access Cards/ Remotes,1
+Header Net Rental Income,1
+Less: Capital Improvements Capitalized Clubhouse/Amenity Area,0
+Less: Cable Common Area TV / Cable,0
+Less: Plumbing Contract Plumbing,0
+Less: Bad Debt Less: Commercial Write-Offs,1
+Less: Payroll Taxes & Benefits Administrative - 401,0
+Total TOTAL PAYROLL & BENEFITS,0
+Less: Unit Turnover Unit Repairs,0
+Total UTILITY INCOME,1
+Less: Training Training & Education,0
+Gross Potential Rent Gross Potential Rent,1
+Plus: Misc. Other Income Change Lock Fee,1
+Plus: Application Fees Application Fee,1
+Total TOTAL OPERATING EXPENSES,0
+Less: Sewer Sewer - Resident Submeter,0
+Less: Unit Turnover Turnover- Carpet/Floor Cleaning,0
+Not Classified Property Expenses-Uncollectable,0
+Less: Pest Control Contract - Pest Control,0
+Less: Interest Mortgage Interest Paid,0
+Plus: Utilities Income: Electricity Utility Billback - Vacant Electric,1
+Total BAD DEBT EXPENSE,0
+Less: Parking Maintenance Garage Repairs,0
+Less: Repair Costs Miscellaneous Expense - R&M,0
+Less: Office Expenses Recruitment Advertising,0
+Less: Repair Costs Roof Repairs,0
+Less: Maintenance Salary Maintenance Salaries,0
+Plus: Parking Parking Space Fee,1
+Plus: Utilities Income: Trash Trash Fee Income,1
+Less: Management Fees Management Fees,0
+Plus: Late Charges NSF Fees,1
+Less: Insurance Insurance Disbursement,0
+Plus: Laundry and Vending Coin Laundry Income,1
+Less: Concessions Concessions - Upfront,1
+Plus: Termination Fees Termination Fees (Lease Break),1
+Less: Cleaning Fees Common Area Cleaning,0
+Less: Real Estate Taxes Real Estate Taxes,0
+Plus: Additional Resident Fee Move-In Fee Concession,1
+Plus: Late Charges Legal Fees Reimbursement,1
+Plus: Laundry and Vending Washer &amp; Dryer Rental,1
+Less: Real Estate Taxes Real Estate Taxes - Appeal,0
+Plus: Utilities Income: Trash Reimbursed Litter Pick Up,1
+Less: Security CAP- Fire/Life Safety,0
+Plus: Utilities Income: Other Reimbursed Service Fees,1
+Plus: Additional Resident Fee Move In Fee - Canceled,1
+Plus: Late Charges Owner NSF Fee,1
+Plus: Termination Fees Termination Fees (Lease Break),1
+Plus: Late Charges Owner NSF Fee,1
+Total TOTAL DEPRECIATION/AMORTIZATION,0
+Plus: Misc. Other Income Miscellaneous Income,1
+Header Utility Fees/Charges,1
+Less: Real Estate Taxes Personal Property Taxes,0
+Less: Office Expenses Company Functions,0
+Less: Payroll Taxes & Benefits Payroll Taxes,0
+Less: Electricity Electric - Vacant,0
+"Less: Repair Costs JOB - Misc. (Nails, Tape, Supplies)",0
+Plus: Misc. Other Income Communication Tower Rent,1
+Less: Interest Interest Cap Rate Return,0
+Less: Marketing Marketing-Branding,0
+Plus: Application Fees Application Fees,1
+Gross Potential Rent Rental Income,1
+Less: Unit Turnover RR - Doors/ Locks,0
+Plus: Termination Fees Termination Fees (Lease Break),1
+Less: Security Security Monitoring,0
+Plus: Utilities Income: Water Reimbursed Water,1
+Plus: Late Charges NSF Charge / Bank Charges,1
+Less: Security CAP- Fences/Gates/Porch/Railings,0
+Plus: Misc. Other Income Holding Fee Concession,1
+Plus: Laundry and Vending Washer &amp; Dryer Rental,1
+Less: Office Expenses Bank Fees/Charges,0
+Plus: Parking Garage Remote Fee,1
+Less: Marketing Resident Referrals,0
+Less: Management Fees Management Fees -Residential,1
+Header Net Operating Income,1
+Plus: Misc. Other Income Clubhouse Rental Income,1
+Not Classified Interest Income,1
+Less: Cable Answering Service,0
+Total Non-Rental Income,1
+Less: Trash Removal Trash,0
+Total TOTAL GROSS POTENTIAL INCOME,1
+Less: Vacancy Residential-Vacancy Loss Contra,1
+Plus: Pet Non Refundable Pet Fee,1
+Plus: Misc. Other Income Deposit Fee,1
+Plus: CAM Charges Maintenance Charges,1
+Less: Capital Improvements Key Replacement,1
+Less: Maintenance Salary Grounds Payroll,0
+Plus: Late Charges Late Fee,1
+Plus: Termination Fees Reimbursed Legal & Professional Services,1
+Less: Bad Debt Bad Debt Recovery,1
+Less: Capital Improvements Appliances - Other,0
+Less: Bad Debt Bad Debt Recovery,1
+Less: Bad Debt Collections- Bad Debt Collected,1
+Less: Concessions Rental Concessions (Prorated),1
+Plus: Utilities Income: Trash Reimbursed Trash,1
+Less: Cable Cable,0
+Less: Electricity Electricity,0
+Total TOTAL INCOME,1
+Less: Legal Fees Legal Fees,0
+Less: Marketing Marketing Fee,0
+Plus: Utilities Income: Other RUB Income,1
+Plus: CAM Charges Passthru Insurance,1
+Total Property Payroll,0
+Less: Office Expenses Forms,0
+Gross Potential Rent Rental Income - Subsidized,1
+Less: HVAC Maintenance JOB - Water Heater,0
+Plus: Misc. Other Income Field Management Reimbursement,1
+Plus: Utilities Income: Cable Internet/Cable Income - Revenue Share,1
+Less: Security Fire Safety & Inspections,0
+Header UTILITY INCOME,1
+Less: Capital Improvements Capitalized HVAC,0
+Plus: Late Charges Legal Fees,1
+Header GENERAL AND ADMINISTRATIVE,0
+Less: Bonuses and Commissions Maintenance Bonuses,0
+Header PROPERTY REVENUES RESIDENTIAL,1
+Less: Other Contract Services Other - Temp,0
+Plus: Damages Reimbursement Damage Income,1
+Less: HVAC Maintenance Appliances - HVAC,0
+Less: Payroll Taxes & Benefits Benefits-Auto Allowance,0
+Less: Unit Turnover Turnover Painting,0
+Less: Maintenance Salary Maintenance Overtime,0
+Less: Marketing Events and PR,0
+Header Net Income,1
+Less: Parking Maintenance JOB - Garage,0
+Header UTILITIES,0
+Plus: Misc. Other Income Work Order Billback,1
+Plus: Late Charges Bad Debt Recovery Income,1
+Less: Other Salaries Office Salaries,0
+Plus: Utilities Income: Gas Reimbursed Gas,1
+Less: Training Shopper Reports,0
+Header INSURANCE/WORKER'S COMP,0
+Plus: Misc. Other Income Accelerated Rent,1
+Total Rent Potential,1
+Gross Potential Rent Market Rent,1
+Less: Security JOB - Fire Damage,0
+Total GENERAL ADMINISTRATION,0
+Total Total Income,1
+Less: Marketing Brochures,0
+Total TOTAL OPERATING INCOME,1
+Less: Meals and Entertainment Lodging,0
+Less: Capital Improvements Blinds,0
+Less: Cleaning Fees JOB - Pressure Washing Building,0
+Plus: Storage Package Convenience Fee,1
+Plus: Storage Package Locker/Delivery Service Fees,1
+Less: Manager Salary Payroll- Community Manager Salary,0
+Gross Potential Rent Rental Income,1
+Less: Contract Maintenance JOB - Project Management Fee,0
+Gain / Loss to Lease Gain / (Loss) To Lease,1
+Plus: Misc. Other Income Miscellaneous Income,1
+Less: Meals and Entertainment Travel -Air/Hotel/Auto Rental,0
+Total TOTAL PAYROLL,0
+Plus: Utilities Income: Other Reimbursed Utility Processing Fees,1
+Plus: Utilities Income: Pest Reimbursed Pest Control,1
+Less: Unit Turnover Window Blinds and Screens,0
+park Residential-Garage Rent,1
+Plus: CAM Charges Passthru Insurance,1
+Less: Meals and Entertainment Training Travel,0
+Less: Interest Interest Expense,0
+Header INCOME,1
+Plus: Admin Fees Owner Lease Admin Fee,1
+Plus: Misc. Other Income Miscellaneous Income,1
+Plus: Move Out Income Reimbursed Turnover General,1
+Plus: Late Charges Late Charge,1
+Plus: Late Charges NSF Fee,1
+Less: Concessions Concessions - Recurring,1
+Plus: Move Out Income Replacement keys/locks Income,1
+Header PAYROLL TAXES,0
+Less: Training Training,0
+Less: Repair Costs Other Fees,0
+Plus: Utilities Income: Other Owner Utility Administrative Fee,1
+Header CHECK PROCESSING FEES,0
+Less: Capital Improvements Remotes,0
+Total TOTAL INSURANCE,0
+Plus: Parking Retail Parking Income,1
+Plus: Misc. Other Income Commission Income - Leasing,1
+Less: Capital Improvements Ceiling Fans,0
+Plus: Laundry and Vending Laundry Income,1
+Less: Training Continuing Education,0
+Plus: Late Charges Late Fee,1
+Less: Depreciation Depreciation Expense,0
+Plus: Utilities Income: Other Utility Transfer Fee- Move In,1
+Total TOTAL OPERATING EXPENSES,0
+Less: Insurance Pollution,0
+Less: Capital Improvements Capitalized Roofs,0
+Header DEBT SERVICE,0
+Plus: Parking Retail Parking Income,1
+Plus: Damages Reimbursement Damages - Carpet Clean,1
+Less: Technology Allocation Computer Software,0
+Less: Insurance Leasing - Ins,0
+Plus: Parking Carport Garage Fee,1
+Total TOTAL DEPRECIATION & AMORTIZATION,0
+Plus: Misc. Other Income Transfer Fees,1
+"Less: Office, Model, Down Units Non Revenue Units (Down Units)",1
+Less: License and Permits Licenses/Permits,0
+Plus: Misc. Other Income Office Payroll Reimbursement,1
+Less: Landscaping CAP- Landscape,0
+Less: Unit Turnover Floors / Refinishing,0
+Less: Repair Costs JOB - Retaining Walls,0
+Less: Insurance Insurance - Environmental,0
+Plus: Laundry and Vending Vending Machine Income,1
+Total Salaries & Wages,0
+Less: Repair Costs JOB - Appliances New,0
+Header PROPERTY REVENUES RESIDENTIAL,1
+Total NET RENTAL INCOME,1
+Total TOTAL GROSS POTENTIAL INCOME,1
+Plus: Utilities Income: Water Passthru Water & Sewer,1
+Total TOTAL OTHER INCOME-RESIDENTIAL,1
+Plus: Misc. Other Income Amenity Fee - Recurring,1
+Less: Bonuses and Commissions Seasons - Incentive Pay,0
+Less: Office Expenses Express Mail,0
+Plus: Late Charges Late Rent Fees,1
+Less: Marketing Resident Referrals,0
+Less: Website Marketing– Website Expenses,0
+Less: Payroll Taxes & Benefits Leasing - Payroll Taxes,0
+Plus: Termination Fees Termination Fee,1
+Less: Pest Control Pest Control - Termite,0
+Less: Landscaping Landscaping,0
+Less: Contract Maintenance Contract Painting,0
+Total Income/Revenue Adjustments,1
+Not Classified Courtesy Officer Unit,1
+Plus: Utilities Income: Other Passthru Utility Package,1
+Less: Gas Gas,0
+Less: Repair Costs JOB - Blueprints,0
+Less: Landscaping JOB - Irrigation System,0
+Less: Office Expenses Company Functions,0
+Less: Repair Costs Laundry Room Equipment Rental/Repairs,0
+Less: Parking Maintenance Parking Mgmt Expense,0
+Less: Repair Costs Carpet Repairs,0
+Plus: Prepaid Rent Accelerated Rent,1
+Less: Bonuses and Commissions Maintenance - Commissions,0
+Total Capital Expenditures,0
+"Less: Office, Model, Down Units Non Revenue Units (Down Units - Claim)",1
+Plus: Utilities Income: Trash Reimbursed Trash,1
+Less: Other Contract Services Other- Contract Services,0
+Total TOTAL REPAIRS & MAINT.,0
+Less: Payroll Taxes & Benefits Health Insurance,0
+Less: Manager Salary Draper Payroll,0
+Plus: Utilities Income: Water Reimbursed Sewer,1
+Plus: Late Charges Late Rent Fees,1
+Plus: Late Charges Late Fee,1
+Total TOTAL OTHER INCOME-RESIDENTIAL,1
+Not Classified Miscellaneous Corporate Expense,0
+Less: Bonuses and Commissions Bonus Other,0
+Less: Electricity Electrical,0
+Plus: Utilities Income: Water Utility Inc-Water:Consumption,1
+Header Maintenance Payroll,0
+Less: Office Expenses Admin-Leasing office,1
+Less: Capital Improvements Electrical,0
+Less: Bad Debt Extraordinary Bad Debt,0
+Less: Landscaping Mulch,0
+Less: Unit Turnover Reimbursed Turnover Painting,1
+Total CAP - Replacements,0
+Total NET RENTAL INCOME,1
+Less: Concessions Concessions - Other,1
+Less: Technology Allocation JOB - Technology,0
+Less: Vacancy Residential-Vacancy Loss Admin,1
+Less: Manager Salary Milwood Payroll,0
+Less: Unit Turnover Reimbursed Turnover Cleaning,1
+Plus: Parking Parking Rent,1
+Plus: Utilities Income: Other Other Utility Reimbursement,1
+Less: Amenities JOB - Maintenance Storage/Shop,0
+Plus: Storage Storage Fees,1
+Not Classified Clubhouse Rental Income,1
+Less: Cable Internet Service,0
+Plus: Utilities Income: Water Utility Inc-Water:Consumption,1
+Plus: Short Term Premiums Short-Term Fees,1
+"Less: Office, Model, Down Units Admin Units",1
+Less: Marketing Marketing Research,0
+Plus: Short Term Premiums Month to Month Fee,1
+Total TOTAL INCOME,1
+Plus: Pet Pet Rent,1
+Less: Bad Debt Bad Debt Write Off,1
+Plus: Laundry and Vending Coin Laundry Income,1
+Less: Commercial: Tenant Improvements CAP- Retail TI+LC,0
+Less: Office Expenses Telephone Service,0
+Plus: Move Out Income Lockout / Keyfob,1
+Less: Water Water & Sewer,0
+Not Classified Cable Income,1
+Plus: Termination Fees Insufficient Notice,1
+Less: Security Fire Safety & Inspections,0
+Less: Repair Costs Window Repair,0
+Plus: Utilities Income: Cable Internet Income,1
+Less: Manager Salary Winnie Payroll,0
+Plus: Late Charges Insufficient Notice Fee,1
+Plus: Utilities Income: Gas Resident Gas Charge,1
+Plus: Application Fees Application Fee Concession,1
+Plus: Utilities Income: Trash Reimbursed Trash,1
+Total OTHER PROPERTY REVENUES,1
+Less: Marketing Model Furniture/Accessories,0
+Header GROSS POTENTIAL INCOME,1
+Header NON-OPERATING EXPENSES,0
+Less: Management Fees Management Fee,0
+Less: Exterior Decorating JOB - Sidewalk,0
+Total Maintenance Payroll,0
+Less: Amenities Clubroom Repairs,0
+Header Net Income,1
+Plus: Community Fees HOA Fees,1
+Less: Other Contract Services Leasing - Temp,0
+Less: Sewer Storm Drain Fees,0
+Less: Maintenance Salary Maintenance Supervisor,0
+Header Net Rental Income,1
+Less: Training L&D Fee,0
+Plus: Pet Pet Fees,1
+Plus: Late Charges Late Charge,1
+Plus: Utilities Income: Trash Reimbursed Trash,1
+Less: Office Expenses Office Supplies,0
+Less: Repair Costs JOB - Flooring,0
+Plus: Misc. Other Income Interest Income,1
+Plus: Late Charges NSF Charge / Bank Charges,1
+Total Reimbursement Charges,1
+Plus: Utilities Income: Water Reimbursed Water,1
+Plus: Utilities Income: Electricity Utility Billback - Vacant Electric,1
+Not Classified Asset Management Fees,0
+Less: Down Units Down Units,1
+Plus: Damages Reimbursement Damage Income,1
+Plus: Laundry and Vending Laundry Income,1
+Less: Office Expenses Telephone,0
+Less: Maintenance Salary Exterior Grounds Maintenance,0
+Plus: Short Term Premiums Month to Month Fee,1
+Not Classified Clubhouse Rental Income,1
+Plus: Utilities Income: Electricity Passthru Electricity,1
+Less: Cable Internet Service,0
+Plus: Misc. Other Income Commission Income - Leasing,1
+Less: Unit Turnover Kitchen Cabinet Repair,0
+Less: Marketing Resident Referrals,0
+Header OTHER EXPENSES,0
+Plus: Short Term Premiums Short Stay Revenue,1
+Plus: Move Out Income Access Cards/ Remotes,1
+Less: Repair Costs JOB - Drywall,0
+"Less: Dues and Subscriptions Annual Reports, Filing Fees, LLC,",0
+Total TOTAL OTHER INCOME-RESIDENTIAL,1
+Plus: Parking Carport Garage Fee,1
+Plus: Storage Storage Fees,1
+Less: Employee Units Employee Discount,1
+Plus: CAM Charges Passthru OPEX,1
+Plus: Pet One-Time Pet Fee,1
+Less: Miscellaneous Expenses Event Expense,0
+Plus: Utilities Income: Electricity Reimbursed Electric,1
+Plus: Laundry and Vending Vending Machine Income,1
+Plus: Laundry and Vending Washer &amp; Dryer Rental,1
+Less: Interior Decorating Doors - Exterior,0
+Plus: Short Term Premiums Month to Month Fee,1
+Less: Other Salaries Other - New Hire,0
+Plus: Additional Resident Fee Amenity Usage/Guest Suite Income,1
+Plus: Utilities Income: Trash Resident Trash Charge,1
+Plus: Misc. Other Income Change Lock Fee,1
+Less: Down Units Down Units,1
+Plus: Admin Fees Owner Lease Admin Fee,1
+Less: Gas Gas,0
+Header RENTAL INCOME,1
+Total Salaries & Wages,0
+Total TOTAL GENERAL AND ADMINISTRATIVE,0
+Less: Cleaning Fees Carpet Cleaning,0
+Less: Pest Control Pest Control Supplies,0
+Plus: Late Charges Late Fee,1
+Header BAD DEBT EXPENSE,0
+Plus: Utilities Income: Other Utility Set Up Fee Income,1
+Plus: Utilities Income: Trash Reimbursed Trash,1
+Total TOTAL GROSS POTENTIAL INCOME,1
+Plus: Termination Fees Transfer Fee,1
+Plus: Utilities Income: Cable Tenant Utilities - Cable/Internet/Telephone,1
+Header PROPERTY REVENUES RESID'L RENTAL INCOME,1
+Less: Management Fees Management Fees -Residential,1
+Less: Office Expenses Postage,0
+Plus: Damages Reimbursement Damages,1
+Less: Bonuses and Commissions Leasing - Commissions,0
+Less: Repair Costs Water Damage - Flooring,0
+Total MAJOR REPAIRS-UNIT,0
+Plus: Misc. Other Income Insurance Recovery - Forced Placed,1
+Not Classified Forgiveness of Debt,0
+Plus: Application Fees Deposit Fee,1
+Total TOTAL OTHER INCOME,1
+"Less: Office, Model, Down Units Non Revenue Units (Down Units)",1
+Less: Cable Utility Exp-Telecom:Consumption,0
+Less: Repair Costs JOB - Outside Flooring,0
+Less: Payroll Taxes & Benefits Payroll Processing Fee,0
+Plus: Additional Resident Fee Amenity Usage/Guest Suite Income,1
+Header RENTAL INCOME,1
+Plus: Utilities Income: Water Resident Water and Sewer Charge,1
+Plus: Misc. Other Income Tenant Based Subsidy,1
+Header PARTNERSHIP,0
+Not Classified Annual Fees,0
+Header OPERATING INCOME,1
+Less: Contract Maintenance Labor 3rd Party Scheduled,0
+Plus: Late Charges NSF Fees,1
+Less: Marketing Resident Relations,0
+Less: Capital Improvements Capitalized Exterior Improvements,0
+Plus: Short Term Premiums Corporate Rental Premium,1
+Plus: Additional Resident Fee Owner Income Lease Changes,1
+Plus: Storage Locker Storage Income,1
+Less: Concessions Concessions - Upfront,1
+Total TOTAL REIMBURSEMENT,1
+Less: Pest Control CAP- Pest,0
+Plus: CAM Charges Passthru Insurance,1
+Plus: Late Charges Late Fee,1
+Less: Marketing Promotional Signage,0
+Plus: Damages Reimbursement Resid'l-Reimb fr Tenant Damage,1
+Gain / Loss to Lease Residential-Loss to Lease,1
+Plus: Parking Carport,1
+Not Classified Business License,0
+Total TOTAL PAYROLL - SALARIES,0
+Plus: Utilities Income: Other Reimbursed Service Fees,1
+"Less: Repair Costs JOB - Electric Lights, Ceiling Fans",0
+Plus: Misc. Other Income Subsidy Assistance,1
+Gross Potential Rent Gross Potential Market Rent,1
+park Residential-Garage Rent,1
+Plus: Utilities Income: Trash Trash Door to Door Rebill,1
+"Less: Office, Model, Down Units Non Revenue Units (Down Units - Claim Recovery)",1
+Less: Repair Costs JOB - Dishwasher,0
+Total TOTAL INCOME,1
+Plus: Misc. Other Income General Contractor Revenue,1
+Less: Legal Fees Legal Fees,0
+Plus: Damages Reimbursement Damages - Trash Removal,1
+Less: Repair Costs W/D & Dishwasher Repair,0
+Less: Legal Fees Legal / Eviction,0
+Less: Repair Costs JOB - Roof Replacement/Repairs,0
+Plus: Laundry and Vending Vending Machine Income,1
+Plus: Late Charges NSF Fee,1
+Plus: Commercial Income Commercial Rent,1
+Total TOTAL MISC INCOME,1
+Less: HVAC Maintenance RR - HVAC Compressor,0
+Plus: Short Term Premiums Month to Month Fee,1
+Less: Cleaning Fees JOB - Pressure Washing,0
+Plus: Parking Parking Space Fee,1
+Less: Training Conferences & Seminars,0
+Less: Technology Allocation JOB - Technology,0
+Not Classified Owner/Advisor Professional Fees,0
+Plus: Termination Fees Transfer Fee,1
+Less: Cleaning Fees Cleaning Supplies,0
+Total Total Operating Income,1
+Plus: Laundry and Vending Laundry Income,1
+Less: Cleaning Fees Apartment Cleaning,0
+Plus: Late Charges NSF Charge / Bank Charges,1
+Less: Broker Commissions Broker/Locator,0
+Gross Potential Rent Rental Income - Subsidized,1
+Plus: Additional Resident Fee Interest Income fr Tenant,1
+Less: Office Expenses Uniforms- Grounds,0
+Less: Payroll Taxes & Benefits Leasing - Payroll Taxes,0
+Not Classified Acquisition Fee,0
+Less: Leasing Agent Salary Payroll- Leasing,0
+Gross Potential Rent Rental Income - Subsidized,1
+Less: Technology Allocation Software - Real Page BI/PAB,0
+Less: Office Expenses Kingsley/Ellis Survey,0
+Less: Office Expenses Copier Expense,0
+Plus: Misc. Other Income Miscellaneous Income,1
+Less: SEO Digital Marketing,0
+Total TOTAL PERCENTAGE RENT,1
+Less: Unit Turnover ATC-Contract Painting,0
+Not Classified Turn Fees,0
+Less: Marketing Marketing,0
+"Less: Repair Costs JOB - Electric Lights, Ceiling Fans",0
+Less: Capital Improvements CAP- Building Renovation-Exterior,0
+Plus: Pet Pet Fees,1
+Total TOTAL MARKETING,0
+Plus: Utilities Income: Electricity Reimbursed Gas/Electric Utilities,1
+Less: Other Contract Services Professional Fees - Other,0
+Plus: Parking Retail Parking Income,1
+Less: Interest Mortgage Interest,0
+Header Net Income,1
